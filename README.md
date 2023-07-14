@@ -301,8 +301,7 @@ mean-normalised.
 
 Once all datasets have been pre-processed, they are merged with an inner
 join on the `country` attribute. The resulting dataset has 37 columns
-and 17 rows (see fig. [\[fig:02\]](#fig:02){reference-type="ref"
-reference="fig:02"}).
+and 17 rows (see fig. 2).
 
 # Observations
 
@@ -316,11 +315,10 @@ negative correlation, which might indicate that the initial hypothesis
 is incorrect. However, visualising this plot reveals that the this
 negative correlation stems from Morocco, an substantial outlier that has
 the highest emigration rate to Spain but is below average with regards
-to similarity (see fig [2](#fig:03){reference-type="ref"
-reference="fig:03"}).
+to similarity (see fig 2).
 
 ![Scatter plot of migration over similarity with corresponding linear
-regression line.](imgs/sim_over_mig_M.png){#fig:03 width="\\columnwidth"}
+regression line.](imgs/sim_over_mig_M.png)
 
 While certainly this would indicate that musical similarity is not the
 *most* correlated attribute to the target, it also does not suggest that
@@ -342,11 +340,8 @@ or incomplete.
 ## Most Correlated Attributes
 
 
-| ![All tested attributes and their respective
-coefficients.](imgs/Screenshot 2023-01-10 at 08.48.09.png){#fig:05
-width="\\columnwidth"}| 
-|:--:| 
-| *Space* |
+![All tested attributes and their respective
+coefficients.](imgs/Screenshot 2023-01-10 at 08.48.09.png)
 
 To overcome this issue, a multiple-linear regression model was trained
 on the full dataset (excluding the country and target attributes). The
@@ -359,7 +354,7 @@ indicate either positive or negative correlation (see fig
 ease of analysis, the best six coefficients are picked (those with the
 highest value aside from the musical similarity attribute).
 
-![image](imgs/coefficients_with_morocco.png){width="\\textwidth"}
+![image](imgs/coefficients_with_morocco.png)
 
 Here we see that our regression lines seem to be more resilient to
 outliers, and that most of them fit the scatter plots. The most
