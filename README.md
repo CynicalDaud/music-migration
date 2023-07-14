@@ -99,7 +99,7 @@ plentiful and of easy access.
 years. Of note is the gradual rise throughout the early 2010's with a
 steep dip at the beginning of the COVID-19 epidemic and now explosive
 growth, contributing to Spain's high
-net-migration.](ime_img.png){#fig:01 width="\\columnwidth"}
+net-migration.](ime_img.png)
 
 # Initial Proposal
 
