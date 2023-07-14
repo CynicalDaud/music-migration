@@ -1,0 +1,1524 @@
+Index,Gender,Age,Studies,Nationality,Administrative_situation,Working
+0,Women,51-65,College,España,Community,No
+1,Women,51-65,College,Venezuela,ART,No
+2,Women,18-30,Pre-college,Honduras,Refugee,No
+3,Women,18-30,Pre-college,Venezuela,Community,No
+4,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+5,Men,18-30,College,Perú,Community_familiar,No
+6,Women,51-65,Pre-college,Ecuador,Community_familiar,No
+7,Men,18-30,High-school,Camerún,Refugee,No
+8,Women,18-30,Pre-college,Venezuela,Community,No
+9,Women,18-30,Pre-college,Venezuela,Community,No
+10,Women,51-65,Pre-college,Ecuador,Community_familiar,Yes
+11,Women,51-65,Pre-college,Costa Rica,Community,No
+12,Women,18-30,Pre-college,Ecuador,Community,No
+13,Women,18-30,High-school,Honduras,Irregular,No
+14,Women,18-30,Pre-college,Venezuela,Community,No
+15,Women,31-50,Pre-college,República Dominicana,Community_familiar,No
+16,Women,51-65,Pre-college,Costa Rica,Community,No
+17,Women,18-30,Pre-college,Venezuela,Community,No
+18,Women,18-30,Pre-college,Ecuador,Community,No
+19,Women,51-65,Pre-college,Nicaragua,Refugee,No
+20,Men,51-65,High-school,Nicaragua,Refugee,No
+21,Women,18-30,Pre-college,Ecuador,Community,No
+22,Women,18-30,Pre-college,Venezuela,Community,No
+23,Women,51-65,Pre-college,Costa Rica,Community,No
+24,Women,51-65,Pre-college,Marruecos,ART,No
+38,Women,18-30,Pre-college,Venezuela,ART,Yes
+40,Men,18-30,College,Venezuela,Refugee,Yes
+44,Men,18-30,Pre-college,Venezuela,Refugee,Yes
+55,Women,18-30,College,España,Community,Yes
+63,Women,18-30,Pre-college,Venezuela,Community_familiar,Yes
+85,Women,18-30,Pre-college,Venezuela,Community_familiar,Yes
+104,Women,18-30,Pre-college,Venezuela,ART,Yes
+107,Women,18-30,Pre-college,Venezuela,ART,Yes
+108,Women,51-65,College,Colombia,Community_familiar,No
+109,Women,51-65,College,Colombia,Community_familiar,No
+110,Women,51-65,College,Colombia,Community_familiar,No
+111,Women,51-65,College,Colombia,Community_familiar,No
+112,Women,18-30,College,Paraguay,Community,No
+113,Men,18-30,Pre-college,Venezuela,Refugee,No
+114,Men,18-30,Pre-college,Ecuador,Community,No
+115,Women,51-65,College,Venezuela,Community_familiar,No
+116,Women,31-50,No_studies,Ecuador,Community,No
+117,Women,51-65,College,Colombia,Community_familiar,No
+118,Men,18-30,High-school,Malí,ART,Yes
+119,Women,18-30,College,Bolivia,Community_familiar,No
+120,Women,18-30,College,Bolivia,Community_familiar,No
+121,Men,18-30,High-school,Venezuela,Community_familiar,No
+122,Women,51-65,College,Colombia,Community_familiar,No
+123,Men,18-30,Pre-college,Ecuador,Community,No
+124,Men,18-30,Elementary_school,España,Community,No
+125,Men,18-30,Elementary_school,España,Community,No
+126,Women,51-65,Elementary_school,Colombia,Refugee,No
+127,Men,18-30,Elementary_school,España,Community,No
+128,Women,18-30,College,Paraguay,Community,No
+129,Women,18-30,College,Bolivia,Community_familiar,No
+130,Women,31-50,No_studies,Ecuador,Community,Yes
+131,Women,31-50,High-school,Ecuador,Community,No
+132,Women,51-65,Elementary_school,Ecuador,Community,No
+133,Women,18-30,High-school,Polonia,Community,No
+134,Men,18-30,Elementary_school,España,Community,No
+135,Women,31-50,High-school,República Dominicana,ART,Yes
+136,Men,31-50,College,Argentina,Community,No
+137,Men,31-50,College,Argentina,Community,No
+138,Men,31-50,College,Argentina,Community,No
+139,Men,31-50,College,Argentina,Community,No
+140,Men,31-50,College,Argentina,Community,No
+141,Men,31-50,College,Argentina,Community,No
+142,Women,18-30,College,Bolivia,Community_familiar,No
+143,Women,31-50,High-school,República Dominicana,ART,No
+144,Women,51-65,College,Venezuela,Community_familiar,No
+145,Women,51-65,Elementary_school,Colombia,Refugee,No
+146,Men,31-50,College,Argentina,Community,No
+147,Women,51-65,College,Colombia,Community_familiar,No
+148,Women,51-65,College,Venezuela,Community_familiar,No
+149,Women,31-50,High-school,Ecuador,Community,No
+150,Women,18-30,College,Bolivia,Community_familiar,No
+151,Women,18-30,Pre-college,Ecuador,Community,No
+152,Women,18-30,Pre-college,Ecuador,Community,No
+153,Women,18-30,Pre-college,Ecuador,Community,No
+154,Men,18-30,High-school,Ecuador,Community_familiar,No
+155,Women,31-50,Pre-college,Ecuador,Community,No
+156,Women,51-65,Elementary_school,Ecuador,Community,No
+157,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+158,Women,18-30,High-school,Polonia,Community,No
+159,Women,18-30,Vocational_training,Ecuador,Community,No
+160,Women,31-50,Pre-college,España,Community,Yes
+161,Women,31-50,High-school,Ecuador,Community,No
+162,Women,31-50,High-school,Ecuador,Community,No
+163,Women,18-30,College,Colombia,Community,Yes
+164,Women,18-30,College,Colombia,Community,No
+165,Women,18-30,College,Colombia,Community,No
+166,Women,18-30,Pre-college,Marruecos,ART,No
+167,Men,18-30,Pre-college,Ecuador,Community,No
+168,Women,51-65,Pre-college,República Dominicana,Community,No
+170,Women,18-30,Elementary_school,Paraguay,Community,No
+180,Men,18-30,Pre-college,Venezuela,Refugee,Yes
+183,Men,18-30,Pre-college,Honduras,ART,No
+184,Men,18-30,Pre-college,Honduras,Refugee,No
+185,Men,18-30,Pre-college,Honduras,ART,No
+188,Men,31-50,College,Ecuador,Refugee,No
+191,Women,31-50,College,Argentina,Student,No
+192,Women,31-50,College,Argentina,Student,No
+193,Women,31-50,College,Venezuela,Community,No
+199,Women,18-30,College,Nicaragua,Refugee,Yes
+203,Women,18-30,College,Bolivia,Community_familiar,No
+204,Men,18-30,No_studies,Marruecos,ART,No
+205,Men,18-30,College,Colombia,Refugee,Yes
+206,Women,18-30,College,Venezuela,Refugee,No
+217,Women,51-65,College,Venezuela,Community_familiar,No
+218,Women,51-65,College,Venezuela,Community_familiar,No
+219,Women,51-65,College,Colombia,Community_familiar,No
+220,Women,51-65,College,Colombia,Community_familiar,No
+225,Women,18-30,Pre-college,Venezuela,Community,Yes
+227,Men,18-30,Elementary_school,España,Community,No
+228,Men,31-50,College,Argentina,Community,No
+229,Men,18-30,Pre-college,República Dominicana,Community,No
+230,Men,18-30,Pre-college,República Dominicana,Community,No
+234,Men,31-50,College,Cuba,ART,No
+235,Men,31-50,College,Cuba,ART,No
+236,Men,51-65,College,Cuba,Community_familiar,No
+237,Women,4-17,Elementary_school,España,Community,No
+238,Women,4-17,Elementary_school,España,Community,No
+252,Women,31-50,Pre-college,Ecuador,ART,No
+253,Women,31-50,Pre-college,Ecuador,ART,No
+262,Men,18-30,Elementary_school,República Dominicana,Community,No
+263,Men,18-30,Elementary_school,República Dominicana,Community,No
+268,Women,18-30,Vocational_training,España,Community,No
+269,Women,18-30,Vocational_training,España,Community,No
+270,Women,18-30,High-school,Marruecos,ART,No
+271,Women,18-30,High-school,Marruecos,ART,No
+272,Men,18-30,Pre-college,Honduras,Refugee,No
+273,Men,18-30,Pre-college,Honduras,Refugee,No
+274,Women,18-30,High-school,España,Community,No
+276,Women,18-30,High-school,Filipinas,Community,No
+277,Women,18-30,High-school,Filipinas,Community,No
+278,Women,18-30,College,Perú,Community,No
+279,Women,18-30,College,Perú,Community,No
+280,Men,18-30,Pre-college,Colombia,Refugee,No
+281,Men,18-30,Pre-college,Colombia,Refugee,No
+282,Women,18-30,Vocational_training,Guinea Ecuatorial,Irregular,No
+283,Women,18-30,Vocational_training,Guinea Ecuatorial,Irregular,No
+284,Women,18-30,Pre-college,Colombia,Refugee,No
+285,Women,18-30,Pre-college,Colombia,Refugee,No
+286,Women,18-30,Pre-college,El Salvador,ART,No
+287,Women,18-30,Pre-college,El Salvador,ART,No
+288,Men,18-30,Pre-college,República Dominicana,Irregular,No
+289,Men,18-30,Pre-college,República Dominicana,Irregular,No
+290,Women,18-30,Pre-college,Venezuela,ART,No
+291,Women,18-30,Pre-college,Venezuela,ART,No
+292,Women,18-30,High-school,Perú,Refugee,No
+293,Women,18-30,High-school,Perú,Refugee,No
+294,Men,18-30,Pre-college,Colombia,Refugee,No
+295,Men,18-30,Pre-college,Colombia,Refugee,No
+296,Women,18-30,Vocational_training,Perú,Irregular,No
+297,Women,18-30,Vocational_training,Perú,Irregular,No
+298,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+299,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+300,Women,18-30,High-school,República Dominicana,Community_familiar,No
+301,Women,18-30,High-school,República Dominicana,Community_familiar,No
+302,Women,51-65,High-school,Bolivia,ART,No
+303,Women,31-50,High-school,Ecuador,ART,No
+304,Women,18-30,Pre-college,República Dominicana,Community,No
+305,Women,18-30,Pre-college,República Dominicana,Community_familiar,Yes
+306,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+307,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+308,Women,4-17,High-school,Polonia,Community,No
+309,Women,31-50,No_studies,Ecuador,Community,No
+310,Women,31-50,High-school,Ecuador,Community,No
+311,Women,31-50,High-school,Ecuador,Community,No
+312,Women,31-50,High-school,Ecuador,Community,No
+313,Women,31-50,High-school,Ecuador,Community,No
+314,Women,31-50,High-school,Ecuador,Community,No
+315,Women,31-50,High-school,Ecuador,Community,No
+316,Women,31-50,High-school,Ecuador,Community,No
+317,Women,51-65,Pre-college,Costa Rica,Community,No
+318,Women,51-65,Elementary_school,Colombia,Refugee,No
+319,Men,31-50,College,Colombia,Refugee,No
+320,Men,18-30,Elementary_school,República Dominicana,Community,No
+321,Men,18-30,Elementary_school,República Dominicana,Community,No
+322,Men,18-30,Elementary_school,República Dominicana,Community,No
+323,Men,18-30,Elementary_school,República Dominicana,Community,Yes
+324,Men,18-30,Pre-college,Venezuela,ART,No
+325,Women,18-30,Elementary_school,República Dominicana,Community_familiar,No
+326,Women,18-30,Elementary_school,República Dominicana,Community_familiar,No
+327,Women,51-65,Pre-college,Nicaragua,Refugee,No
+328,Women,18-30,Pre-college,Venezuela,ART,No
+329,Men,18-30,High-school,Perú,Irregular,No
+330,Men,18-30,High-school,Perú,Irregular,No
+331,Men,18-30,High-school,Perú,Irregular,No
+332,Men,18-30,Pre-college,Honduras,Refugee,No
+333,Men,18-30,Pre-college,Honduras,Refugee,Yes
+334,Men,18-30,Pre-college,Honduras,Refugee,No
+335,Men,18-30,Pre-college,Honduras,Refugee,No
+336,Women,31-50,Pre-college,Colombia,Irregular,No
+337,Women,18-30,Pre-college,Venezuela,ART,No
+338,Men,18-30,Pre-college,España,Community,No
+339,Men,18-30,Pre-college,España,Community,No
+340,Women,31-50,College,Colombia,Refugee,No
+341,Women,31-50,College,Colombia,Refugee,No
+342,Women,31-50,College,Colombia,Refugee,No
+343,Women,31-50,Pre-college,Marruecos,ART,No
+344,Women,51-65,College,Colombia,Community_familiar,No
+345,Women,51-65,College,Colombia,Community_familiar,No
+346,Women,51-65,College,Colombia,Community_familiar,No
+347,Women,18-30,Pre-college,Venezuela,Community,No
+348,Women,18-30,Pre-college,Venezuela,Community,Yes
+349,Women,18-30,Pre-college,Venezuela,Community,No
+350,Men,18-30,Elementary_school,España,Community,No
+351,Men,18-30,Elementary_school,España,Community,No
+352,Men,18-30,Elementary_school,España,Community,No
+353,Women,4-17,Vocational_training,España,Community,No
+354,Women,4-17,Vocational_training,España,Community,No
+355,Men,18-30,High-school,República Dominicana,Irregular,No
+356,Men,18-30,High-school,República Dominicana,Irregular,No
+357,Men,18-30,High-school,República Dominicana,Irregular,No
+358,Women,31-50,Elementary_school,República Dominicana,Community,No
+359,Women,18-30,Pre-college,Colombia,Refugee,No
+360,Men,18-30,College,República de Corea,Refugee,No
+361,Men,18-30,College,República de Corea,Refugee,No
+362,Women,18-30,College,Nicaragua,ART,Yes
+363,Women,18-30,College,Nicaragua,ART,No
+364,Women,18-30,College,Nicaragua,ART,No
+365,Women,18-30,College,Nicaragua,ART,No
+366,Men,18-30,Elementary_school,Marruecos,Irregular,No
+367,Men,18-30,Elementary_school,Marruecos,Irregular,No
+368,Women,18-30,Pre-college,Venezuela,Community_familiar,No
+369,Women,18-30,Pre-college,Venezuela,Community_familiar,No
+370,Women,18-30,Pre-college,Venezuela,Community_familiar,No
+371,Women,18-30,Vocational_training,España,Community,No
+372,Women,18-30,Vocational_training,España,Community,No
+373,Women,18-30,Pre-college,Marruecos,ART,No
+374,Men,18-30,Pre-college,Honduras,Refugee,No
+375,Women,18-30,High-school,España,Community,No
+376,Women,18-30,High-school,Filipinas,Community,No
+377,Women,18-30,High-school,Filipinas,Community,No
+378,Men,18-30,Pre-college,Colombia,Refugee,No
+379,Women,18-30,Vocational_training,Guinea Ecuatorial,Irregular,No
+380,Women,18-30,Pre-college,Colombia,Refugee,No
+381,Women,18-30,Pre-college,Colombia,Refugee,No
+382,Women,18-30,Pre-college,El Salvador,ART,No
+383,Women,18-30,Pre-college,El Salvador,ART,No
+384,Men,18-30,Pre-college,República Dominicana,Irregular,No
+385,Women,18-30,Pre-college,Venezuela,ART,No
+386,Men,18-30,Pre-college,Colombia,Refugee,No
+387,Men,18-30,Pre-college,Colombia,Refugee,No
+388,Women,18-30,Vocational_training,Perú,Irregular,No
+389,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+390,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+391,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+392,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+393,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+394,Women,18-30,High-school,República Dominicana,Community_familiar,No
+395,Women,18-30,High-school,República Dominicana,Community_familiar,No
+396,Men,18-30,Vocational_training,Colombia,Refugee,No
+397,Men,18-30,Vocational_training,Colombia,Irregular,No
+398,Men,18-30,Vocational_training,Colombia,Irregular,No
+399,Women,31-50,Pre-college,Venezuela,ART,No
+400,Women,31-50,Pre-college,Venezuela,ART,No
+401,Women,31-50,Pre-college,Venezuela,ART,No
+402,Women,18-30,Pre-college,El Salvador,Refugee,No
+403,Women,18-30,Pre-college,El Salvador,Refugee,No
+404,Women,18-30,Pre-college,El Salvador,Refugee,No
+405,Women,18-30,Pre-college,El Salvador,Refugee,No
+406,Men,51-65,Pre-college,Venezuela,Community,No
+407,Men,51-65,Pre-college,Venezuela,Community,No
+408,Men,51-65,Pre-college,Venezuela,Community,No
+409,Women,18-30,High-school,Honduras,ART,No
+410,Women,18-30,High-school,Honduras,ART,No
+411,Women,18-30,High-school,Honduras,ART,No
+412,Women,18-30,High-school,Honduras,ART,No
+413,Women,18-30,Pre-college,Honduras,Irregular,No
+414,Women,18-30,Pre-college,Honduras,Irregular,No
+415,Women,18-30,Pre-college,Honduras,Irregular,No
+416,Women,18-30,Pre-college,Honduras,Irregular,No
+417,Women,18-30,College,Senegal,Irregular,No
+418,Women,18-30,College,Senegal,Irregular,No
+419,Women,18-30,High-school,Perú,Refugee,No
+420,Women,18-30,High-school,Perú,Refugee,No
+421,Women,18-30,High-school,Perú,Refugee,No
+422,Women,18-30,High-school,Perú,Refugee,No
+423,Women,18-30,Vocational_training,Marruecos,ART,No
+424,Women,18-30,Vocational_training,Marruecos,ART,No
+425,Women,18-30,Vocational_training,Marruecos,ART,Yes
+426,Women,18-30,Vocational_training,Marruecos,ART,No
+427,Women,18-30,High-school,Ecuador,Community,No
+428,Women,18-30,High-school,Ecuador,Community,No
+429,Women,18-30,High-school,Ecuador,Community,No
+430,Women,4-17,Pre-college,Jamaica,Refugee,No
+431,Women,4-17,Pre-college,Jamaica,Refugee,No
+432,Women,4-17,Pre-college,Jamaica,Refugee,No
+433,Women,4-17,Pre-college,Jamaica,Refugee,No
+434,Women,18-30,Pre-college,España,Community,No
+435,Women,18-30,Pre-college,España,Community,No
+436,Women,18-30,Pre-college,España,Community,No
+437,Women,18-30,Pre-college,Rumania,Community,No
+438,Women,18-30,Pre-college,Rumania,Community,No
+439,Women,18-30,Pre-college,Rumania,Community,No
+440,Women,18-30,Pre-college,Rumania,Community,No
+441,Women,18-30,Pre-college,Rumania,Community,No
+442,Men,4-17,Pre-college,Perú,Irregular,No
+443,Men,4-17,Pre-college,Perú,Irregular,No
+444,Men,4-17,Pre-college,Perú,Irregular,No
+445,Men,4-17,Pre-college,Perú,Irregular,No
+446,Women,18-30,College,España,Community,No
+447,Women,18-30,College,España,Community,No
+448,Men,31-50,College,Honduras,Refugee,No
+449,Men,31-50,College,Honduras,Refugee,No
+450,Men,31-50,College,Honduras,Refugee,No
+451,Men,31-50,College,Honduras,Refugee,No
+452,Women,18-30,Pre-college,Honduras,Irregular,No
+453,Women,18-30,Pre-college,Honduras,Irregular,No
+454,Women,18-30,Pre-college,Honduras,Irregular,No
+455,Men,18-30,Elementary_school,Portugal,Community,No
+456,Men,18-30,Elementary_school,Portugal,Community,No
+457,Women,31-50,College,Perú,Student,No
+458,Women,31-50,College,Perú,Student,No
+459,Men,4-17,Elementary_school,Colombia,Irregular,No
+460,Men,4-17,Elementary_school,Colombia,Irregular,No
+461,Women,31-50,Pre-college,Colombia,Refugee,No
+462,Women,18-30,High-school,España,Community,No
+463,Women,18-30,Vocational_training,España,Community,Yes
+464,Women,18-30,Pre-college,Marruecos,ART,No
+465,Women,18-30,High-school,Filipinas,Community,No
+466,Women,18-30,College,Senegal,Irregular,No
+467,Women,18-30,Vocational_training,Marruecos,ART,No
+468,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+469,Women,18-30,Elementary_school,España,Community,No
+470,Women,18-30,High-school,Perú,Refugee,No
+471,Women,18-30,Vocational_training,Perú,Irregular,No
+472,Men,18-30,Pre-college,Honduras,ART,No
+473,Women,18-30,Pre-college,República Dominicana,Community_familiar,Yes
+474,Women,18-30,Vocational_training,Guinea Ecuatorial,Irregular,No
+475,Men,18-30,Vocational_training,Colombia,Refugee,No
+476,Women,18-30,Pre-college,Colombia,Refugee,No
+477,Women,18-30,High-school,República Dominicana,Community_familiar,No
+478,Women,4-17,Pre-college,El Salvador,ART,No
+479,Men,18-30,Pre-college,República Dominicana,Irregular,No
+480,Women,4-17,Elementary_school,España,Community,No
+481,Women,18-30,College,Perú,Community,No
+482,Women,51-65,College,Venezuela,ART,No
+483,Women,18-30,College,España,Community,No
+484,Women,18-30,College,Cuba,Community,No
+485,Women,18-30,Pre-college,Marruecos,ART,No
+486,Women,18-30,High-school,España,Community,No
+487,Women,18-30,College,Sahara,ART,No
+488,Women,18-30,High-school,Perú,Refugee,No
+489,Women,4-17,Elementary_school,España,Community,No
+490,Women,4-17,Pre-college,El Salvador,ART,No
+491,Women,18-30,High-school,España,Community,No
+492,Women,18-30,Vocational_training,España,Community,No
+493,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+494,Women,18-30,College,Sahara,ART,No
+495,Women,18-30,High-school,Filipinas,Community,No
+496,Women,18-30,College,Senegal,Irregular,No
+497,Women,18-30,Pre-college,Colombia,Refugee,No
+498,Women,18-30,Vocational_training,Guinea Ecuatorial,Irregular,No
+499,Women,18-30,High-school,República Dominicana,Community_familiar,No
+500,Men,18-30,Pre-college,República Dominicana,Irregular,No
+501,Women,51-65,Pre-college,Ecuador,Community_familiar,No
+502,Women,18-30,High-school,Filipinas,Community,No
+503,Women,18-30,College,Perú,Community,No
+504,Women,18-30,College,Sahara,ART,No
+505,Women,18-30,College,Cuba,Community,No
+506,Men,18-30,Vocational_training,Colombia,Refugee,No
+507,Men,4-17,Elementary_school,España,Community,No
+508,Men,4-17,Elementary_school,España,Community,No
+509,Men,18-30,Pre-college,Ecuador,Community_familiar,No
+510,Women,18-30,Elementary_school,República Dominicana,Community_familiar,No
+511,Women,18-30,Pre-college,Venezuela,Community_familiar,No
+512,Women,18-30,Vocational_training,China,ART,No
+513,Women,18-30,High-school,España,Community,No
+514,Women,18-30,High-school,Perú,Refugee,No
+515,Women,18-30,Vocational_training,China,ART,No
+516,Women,18-30,Vocational_training,China,ART,No
+517,Men,18-30,Pre-college,Ecuador,Community_familiar,No
+518,Men,18-30,Pre-college,Colombia,Irregular,No
+519,Women,4-17,Vocational_training,España,Community,No
+520,Women,18-30,Vocational_training,China,ART,No
+521,Women,31-50,Pre-college,Marruecos,ART,No
+522,Women,18-30,College,Nicaragua,ART,No
+523,Women,31-50,College,Colombia,Refugee,No
+524,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+525,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+526,Women,18-30,College,Senegal,Irregular,No
+527,Women,18-30,High-school,Perú,Refugee,No
+528,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+529,Women,4-17,Vocational_training,España,Community,No
+530,Women,18-30,High-school,Filipinas,Community,No
+531,Women,31-50,Pre-college,Marruecos,ART,No
+532,Women,4-17,Vocational_training,España,Community,No
+533,Women,18-30,Vocational_training,China,ART,No
+534,Men,18-30,Pre-college,Venezuela,ART,No
+535,Women,31-50,College,Colombia,Community,No
+536,Women,18-30,Pre-college,Venezuela,Community_familiar,Yes
+537,Women,18-30,Pre-college,Honduras,Community_familiar,No
+538,Men,31-50,Elementary_school,Portugal,Community,No
+539,Women,4-17,Vocational_training,España,Community,No
+540,Men,4-17,High-school,República Árabe Siria,ART,No
+541,Men,4-17,High-school,República Árabe Siria,ART,No
+542,Men,4-17,High-school,República Árabe Siria,ART,No
+543,Men,18-30,Pre-college,Venezuela,ART,Yes
+544,Women,18-30,Pre-college,Venezuela,ART,No
+545,Men,4-17,Elementary_school,España,Community,No
+546,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+547,Women,31-50,College,Perú,Student,No
+548,Women,18-30,High-school,Ecuador,Community,No
+549,Men,4-17,Elementary_school,España,Community,No
+550,Women,18-30,Pre-college,Venezuela,Community_familiar,No
+551,Women,18-30,College,Nicaragua,ART,No
+552,Women,18-30,Pre-college,Venezuela,ART,No
+553,Women,18-30,Pre-college,Honduras,Community_familiar,No
+554,Women,31-50,College,Colombia,Refugee,No
+555,Women,18-30,College,Senegal,Irregular,No
+556,Men,4-17,Elementary_school,Colombia,Irregular,No
+557,Women,18-30,High-school,Colombia,Refugee,No
+558,Men,18-30,College,Venezuela,Refugee,No
+559,Men,18-30,College,República de Corea,Refugee,No
+560,Women,18-30,High-school,España,Community,No
+561,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+562,Women,18-30,High-school,España,Irregular,No
+563,Women,18-30,High-school,España,Irregular,No
+564,Men,18-30,Pre-college,Ecuador,Community_familiar,No
+565,Men,18-30,Pre-college,Ecuador,Community_familiar,Yes
+566,Women,18-30,High-school,España,Irregular,No
+567,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+568,Men,18-30,Pre-college,Honduras,ART,No
+569,Women,18-30,Pre-college,España,Community,No
+570,Women,18-30,Pre-college,España,Community,No
+571,Men,18-30,Vocational_training,Honduras,Irregular,No
+572,Women,18-30,College,Venezuela,Refugee,No
+573,Women,18-30,Vocational_training,China,ART,No
+574,Men,18-30,College,República de Corea,Refugee,Yes
+575,Men,18-30,Pre-college,Perú,Refugee,No
+576,Women,18-30,High-school,España,Irregular,No
+577,Women,18-30,Vocational_training,Perú,Community,No
+578,Women,18-30,Elementary_school,República Dominicana,Community_familiar,No
+579,Men,31-50,College,Venezuela,Refugee,No
+580,Men,31-50,College,Venezuela,Refugee,No
+581,Women,31-50,Elementary_school,Marruecos,Community,No
+582,Women,31-50,Elementary_school,República Dominicana,Community,No
+583,Women,31-50,Pre-college,Venezuela,ART,No
+584,Women,51-65,Elementary_school,Ecuador,ART,No
+585,Women,31-50,No_studies,Marruecos,ART,No
+586,Women,31-50,No_studies,Marruecos,ART,No
+587,Women,31-50,High-school,Ecuador,Community,No
+588,Men,18-30,Elementary_school,España,Community,No
+589,Women,31-50,Pre-college,Venezuela,ART,No
+590,Men,31-50,College,Venezuela,Refugee,No
+591,Women,51-65,Elementary_school,Ecuador,Community,No
+592,Women,18-30,College,Bolivia,Community_familiar,No
+593,Women,31-50,Elementary_school,Marruecos,Community,No
+594,Women,31-50,No_studies,Marruecos,ART,No
+595,Women,31-50,No_studies,Marruecos,ART,No
+596,Women,31-50,College,Perú,Refugee,No
+597,Women,31-50,College,Perú,Refugee,No
+598,Men,18-30,Pre-college,Venezuela,Refugee,No
+599,Women,51-65,Elementary_school,Colombia,Refugee,No
+600,Women,51-65,Elementary_school,Ecuador,ART,No
+601,Women,51-65,High-school,Marruecos,ART,No
+602,Women,31-50,Elementary_school,Colombia,Refugee,No
+603,Women,31-50,Pre-college,Venezuela,ART,No
+604,Men,31-50,College,Venezuela,Refugee,No
+605,Women,18-30,Elementary_school,Ecuador,Community_familiar,No
+606,Women,18-30,Elementary_school,Ecuador,Community_familiar,No
+607,Women,31-50,College,Perú,Refugee,No
+608,Women,51-65,Elementary_school,Ecuador,Community,Yes
+609,Women,18-30,Pre-college,Ecuador,Community,No
+610,Women,51-65,High-school,Ecuador,ART,No
+611,Women,18-30,Pre-college,Ecuador,Community,No
+612,Women,51-65,High-school,Marruecos,ART,No
+613,Men,18-30,High-school,Marruecos,Community,No
+614,Men,51-65,Vocational_training,Colombia,Community,No
+615,Women,51-65,High-school,Marruecos,Community,No
+616,Women,18-30,Pre-college,República Dominicana,Community_familiar,No
+617,Women,18-30,Pre-college,Honduras,Refugee,No
+618,Women,18-30,Pre-college,Honduras,Refugee,No
+619,Women,31-50,Pre-college,Bolivia,Community,No
+620,Women,18-30,High-school,Ecuador,Community_familiar,No
+621,Men,18-30,Pre-college,Ecuador,Community,No
+622,Men,18-30,Pre-college,Ecuador,Community,No
+623,Men,18-30,Pre-college,Ecuador,Community,No
+624,Women,31-50,College,Colombia,Refugee,Yes
+625,Women,18-30,High-school,Honduras,Irregular,No
+626,Women,18-30,College,Venezuela,Refugee,No
+627,Women,18-30,Vocational_training,Ecuador,Community_familiar,No
+628,Women,4-17,Elementary_school,España,Community,No
+629,Men,18-30,College,República de Corea,Refugee,Yes
+630,Women,18-30,College,Nicaragua,ART,No
+631,Women,18-30,High-school,España,Community,No
+632,Women,18-30,High-school,España,Community,No
+633,Women,18-30,High-school,España,Community,No
+634,Women,18-30,High-school,Filipinas,Community,No
+635,Women,18-30,High-school,Filipinas,Community,No
+636,Women,18-30,Pre-college,El Salvador,ART,No
+637,Women,18-30,Pre-college,El Salvador,ART,No
+638,Men,18-30,Pre-college,República Dominicana,Irregular,No
+639,Men,18-30,Pre-college,República Dominicana,Irregular,No
+640,Women,18-30,High-school,Perú,Refugee,No
+641,Women,18-30,Vocational_training,China,ART,Yes
+642,Women,4-17,Vocational_training,España,Community,No
+643,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+644,Women,18-30,High-school,República Dominicana,Irregular,No
+645,Women,18-30,Pre-college,España,Community,No
+646,Women,18-30,Pre-college,España,Community,No
+647,Women,18-30,Pre-college,España,Community,No
+648,Men,18-30,Pre-college,Perú,Refugee,No
+649,Men,18-30,Pre-college,Perú,Refugee,No
+650,Men,18-30,Pre-college,Perú,Refugee,No
+651,Women,18-30,College,Cuba,Community,No
+652,Women,18-30,College,Cuba,Community,No
+653,Men,18-30,Vocational_training,Guinea Ecuatorial,Irregular,No
+654,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+655,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+656,Women,51-65,Elementary_school,Paraguay,ART,No
+657,Men,18-30,Pre-college,Colombia,Refugee,No
+658,Men,18-30,Pre-college,Colombia,Refugee,No
+659,Women,18-30,Pre-college,Nicaragua,Irregular,No
+660,Men,4-17,Pre-college,Honduras,Irregular,No
+661,Men,18-30,High-school,Bolivia,Community,No
+662,Men,18-30,Pre-college,Ecuador,Community,No
+663,Men,18-30,Pre-college,Ecuador,Community,No
+664,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+665,Men,18-30,Pre-college,Colombia,Refugee,No
+666,Women,18-30,Pre-college,España,Community,No
+667,Women,18-30,High-school,España,Community,Yes
+668,Women,18-30,Pre-college,España,Community,No
+669,Women,18-30,Pre-college,España,Community,No
+670,Men,51-65,Pre-college,Venezuela,ART,No
+671,Women,31-50,Pre-college,Ecuador,Community,No
+672,Women,18-30,Pre-college,Nicaragua,Irregular,No
+673,Women,31-50,Vocational_training,Colombia,Refugee,No
+674,Men,18-30,Pre-college,Ecuador,Community,Yes
+675,Men,51-65,Vocational_training,Colombia,Community,No
+676,Women,18-30,Pre-college,El Salvador,ART,No
+677,Women,18-30,Pre-college,Honduras,Refugee,Yes
+679,Women,31-50,College,Venezuela,ART,No
+680,Men,18-30,Pre-college,Cabo Verde,ART,No
+681,Women,18-30,Pre-college,España,Community,No
+682,Women,18-30,Vocational_training,República Dominicana,Community_familiar,No
+683,Men,18-30,Pre-college,Ecuador,Community,No
+684,Women,18-30,Pre-college,España,Community,No
+685,Women,18-30,Pre-college,España,Community,No
+686,Women,31-50,Vocational_training,Colombia,Refugee,No
+687,Women,51-65,Elementary_school,Ecuador,Community,No
+688,Women,31-50,Pre-college,Marruecos,ART,No
+689,Men,18-30,Pre-college,Cabo Verde,ART,No
+691,Women,18-30,Vocational_training,Colombia,Irregular,No
+692,Women,18-30,Vocational_training,Colombia,Irregular,No
+694,Women,18-30,Vocational_training,España,Community,No
+695,Women,18-30,College,Sahara,ART,Yes
+696,Women,18-30,Elementary_school,Somalia,Refugee,No
+697,Men,18-30,Elementary_school,España,Community,No
+698,Women,18-30,Vocational_training,Colombia,Irregular,No
+699,Women,31-50,Elementary_school,Ecuador,ART,No
+700,Women,18-30,Pre-college,España,Community,Yes
+701,Women,18-30,High-school,Ecuador,Refugee,Yes
+702,Men,18-30,Pre-college,Ecuador,Community,No
+703,Men,18-30,Pre-college,Perú,Irregular,No
+704,Women,31-50,Vocational_training,Colombia,Irregular,No
+705,Women,18-30,Pre-college,España,Community,No
+706,Men,18-30,Pre-college,Bolivia,Community,No
+707,Women,18-30,Pre-college,España,Community,No
+708,Women,31-50,Pre-college,Marruecos,ART,No
+709,Women,18-30,Pre-college,República Dominicana,Community,No
+710,Men,18-30,Pre-college,Perú,Irregular,No
+711,Men,18-30,Unknown,República Dominicana,Community,No
+712,Men,31-50,Elementary_school,Portugal,Community,No
+713,Women,31-50,Pre-college,Honduras,Community,Yes
+714,Women,18-30,High-school,Ecuador,Community_familiar,No
+715,Men,18-30,Elementary_school,España,Community,No
+716,Women,18-30,College,Jamaica,Refugee,No
+717,Women,31-50,Elementary_school,República Dominicana,Community,No
+718,Women,31-50,High-school,Ecuador,Community,No
+719,Women,18-30,High-school,Ecuador,Community_familiar,No
+720,Men,4-17,Pre-college,Venezuela,Refugee,No
+721,Women,18-30,Vocational_training,Ecuador,Community,No
+722,Men,31-50,College,Venezuela,Refugee,No
+723,Men,65,College,Venezuela,ART,Yes
+724,Men,18-30,Elementary_school,España,Community,No
+725,Men,18-30,Pre-college,Ecuador,Community_familiar,Yes
+726,Women,31-50,College,Perú,Student,No
+727,Women,31-50,Pre-college,Honduras,Community,No
+728,Women,51-65,Pre-college,Perú,Community_familiar,No
+729,Men,65,College,Venezuela,ART,No
+730,Women,51-65,Pre-college,Perú,Community,Yes
+731,Women,18-30,No_studies,Argelia,Community,No
+732,Women,18-30,No_studies,Argelia,Community,No
+733,Men,18-30,Elementary_school,España,Community,No
+734,Women,18-30,College,Jamaica,Refugee,No
+735,Men,18-30,Unknown,República Dominicana,Community,No
+736,Women,51-65,Elementary_school,Ecuador,ART,No
+737,Men,18-30,Pre-college,Chile,Community_familiar,No
+738,Men,18-30,Elementary_school,España,Community,No
+739,Men,18-30,Pre-college,Ecuador,Community_familiar,No
+740,Men,51-65,Pre-college,Venezuela,Community,No
+741,Men,18-30,Pre-college,Chile,Community_familiar,No
+742,Women,31-50,Elementary_school,Togo,ART,No
+743,Women,31-50,Elementary_school,Togo,ART,No
+744,Women,31-50,Elementary_school,Togo,ART,No
+745,Women,18-30,Pre-college,España,Community,No
+746,Women,31-50,Pre-college,Venezuela,ART,No
+747,Men,51-65,College,Venezuela,ART,No
+748,Men,18-30,College,Honduras,Refugee,No
+749,Women,51-65,High-school,Bolivia,Community,No
+750,Women,31-50,High-school,Togo,ART,No
+751,Men,51-65,College,Venezuela,Community,No
+752,Women,31-50,College,Perú,Student,No
+753,Women,51-65,Elementary_school,Ecuador,ART,No
+754,Women,31-50,College,Venezuela,ART,No
+755,Women,31-50,College,Venezuela,ART,No
+756,Women,31-50,College,Brasil,Community,No
+757,Women,31-50,College,Brasil,Community,No
+758,Women,18-30,Vocational_training,Marruecos,ART,No
+759,Women,18-30,Vocational_training,Marruecos,ART,No
+760,Women,18-30,Vocational_training,Marruecos,ART,No
+761,Women,51-65,Pre-college,República Dominicana,Community,No
+762,Women,31-50,College,Venezuela,ART,No
+763,Women,31-50,College,Venezuela,ART,No
+764,Men,18-30,College,Bolivia,Community_familiar,Yes
+765,Men,31-50,Elementary_school,Portugal,Community,No
+766,Men,31-50,College,Venezuela,Refugee,No
+767,Men,18-30,Elementary_school,España,Community,No
+768,Women,18-30,Elementary_school,Paraguay,Irregular,No
+769,Men,31-50,Pre-college,Bangladesh,Community_familiar,No
+770,Women,18-30,Vocational_training,España,Community,No
+771,Women,18-30,Vocational_training,Colombia,Irregular,No
+772,Men,31-50,Pre-college,Bangladesh,Community_familiar,No
+773,Women,18-30,Elementary_school,Paraguay,Irregular,No
+774,Men,31-50,Pre-college,Bangladesh,Community_familiar,No
+775,Women,18-30,Vocational_training,España,Community,No
+776,Women,31-50,College,Perú,Student,No
+777,Women,18-30,High-school,España,Community,No
+778,Women,18-30,College,República Dominicana,ART,No
+779,Women,18-30,Pre-college,España,ART,No
+780,Men,18-30,High-school,Colombia,Irregular,No
+781,Women,18-30,College,República Dominicana,ART,No
+782,Women,18-30,Pre-college,Marruecos,ART,No
+783,Women,18-30,Pre-college,Nicaragua,Irregular,No
+784,Women,18-30,Vocational_training,España,Community,No
+785,Men,4-17,Pre-college,Honduras,Irregular,No
+786,Men,18-30,Pre-college,República Dominicana,Irregular,No
+787,Men,51-65,Pre-college,Ecuador,ART,No
+788,Men,51-65,Pre-college,Argelia,ART,No
+789,Men,18-30,Pre-college,Ecuador,Community,Yes
+790,Men,18-30,Pre-college,Ecuador,Community,No
+791,Men,18-30,Pre-college,Honduras,Refugee,No
+792,Women,18-30,Pre-college,Ecuador,Community,No
+793,Men,18-30,Pre-college,Perú,Irregular,No
+794,Women,18-30,Pre-college,República Dominicana,Community,No
+795,Women,18-30,Vocational_training,España,Community,Yes
+796,Women,18-30,Pre-college,Nicaragua,Irregular,No
+797,Women,18-30,Pre-college,Ecuador,Community,No
+798,Women,31-50,Pre-college,Colombia,ART,No
+799,Women,51-65,College,Nicaragua,Refugee,No
+800,Women,31-50,Pre-college,Colombia,ART,No
+801,Men,51-65,Vocational_training,Colombia,Community,No
+802,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+803,Women,18-30,Vocational_training,España,Community,No
+804,Men,18-30,High-school,Colombia,Community,No
+805,Women,18-30,Pre-college,República Dominicana,ART,No
+806,Women,18-30,Pre-college,República Dominicana,ART,Yes
+807,Women,51-65,Pre-college,Nicaragua,Refugee,No
+808,Women,31-50,Pre-college,Colombia,ART,No
+809,Women,51-65,High-school,Ecuador,Community_familiar,Yes
+810,Women,18-30,Vocational_training,España,Community,No
+811,Men,18-30,High-school,Colombia,Community,No
+812,Women,18-30,Pre-college,Honduras,Refugee,No
+813,Men,18-30,No_studies,Senegal,Refugee,No
+814,Women,18-30,High-school,Kenya,Refugee,No
+815,Women,18-30,High-school,Kenya,Refugee,No
+816,Women,18-30,High-school,Ecuador,Community,No
+817,Women,51-65,Elementary_school,Ecuador,Community,No
+818,Men,31-50,College,Venezuela,Refugee,No
+819,Women,31-50,College,Perú,Student,No
+820,Men,18-30,Elementary_school,República Dominicana,Community_familiar,No
+821,Men,31-50,Vocational_training,Portugal,Community,No
+822,Men,31-50,Vocational_training,Portugal,Community,No
+823,Women,51-65,Pre-college,Perú,ART,No
+824,Women,51-65,High-school,Bolivia,ART,No
+825,Women,51-65,High-school,Bolivia,ART,No
+826,Women,65,High-school,Ecuador,Community,No
+827,Women,31-50,Pre-college,República Dominicana,Community,No
+828,Women,31-50,Pre-college,República Dominicana,Community,No
+829,Women,51-65,College,Ecuador,Community,No
+830,Men,31-50,Vocational_training,Portugal,Community,No
+831,Women,31-50,Pre-college,República Dominicana,Community,No
+832,Women,31-50,High-school,Ecuador,Community,No
+833,Women,31-50,High-school,Ecuador,Community,No
+834,Women,31-50,Pre-college,República Dominicana,Community,No
+835,Women,31-50,Pre-college,República Dominicana,Community,No
+836,Women,31-50,Pre-college,Venezuela,ART,No
+837,Women,51-65,College,Ecuador,Community,No
+838,Women,31-50,Elementary_school,República Dominicana,Community,No
+839,Women,31-50,Pre-college,República Dominicana,Community,No
+840,Women,51-65,High-school,España,Community,No
+841,Women,51-65,High-school,España,Community,No
+842,Women,18-30,Vocational_training,Colombia,Refugee,No
+843,Women,18-30,Vocational_training,Colombia,Refugee,No
+844,Women,31-50,Pre-college,República Dominicana,Community,No
+845,Men,31-50,Pre-college,España,Community,No
+846,Men,31-50,Pre-college,España,Community,No
+847,Women,51-65,Vocational_training,Perú,Irregular,No
+848,Women,51-65,Vocational_training,Perú,Irregular,No
+849,Women,31-50,Pre-college,Colombia,Refugee,No
+850,Women,31-50,Pre-college,Colombia,Refugee,No
+851,Women,51-65,College,Venezuela,Community_familiar,No
+852,Women,31-50,Pre-college,Colombia,Refugee,No
+853,Men,31-50,Pre-college,España,Community,No
+854,Men,18-30,Pre-college,Ecuador,Community_familiar,No
+855,Women,31-50,Pre-college,Ecuador,Community,No
+856,Women,31-50,Elementary_school,República Dominicana,Community,No
+857,Women,31-50,Pre-college,Colombia,Refugee,No
+858,Men,51-65,Pre-college,España,Community,No
+859,Women,51-65,Pre-college,Perú,ART,No
+860,Women,31-50,Pre-college,Ecuador,Community,No
+861,Women,51-65,Pre-college,Perú,ART,Yes
+862,Women,18-30,Pre-college,Colombia,Refugee,No
+863,Men,51-65,Pre-college,España,Community,No
+864,Men,51-65,Pre-college,España,Community,No
+865,Men,18-30,Elementary_school,República Dominicana,Community,Yes
+866,Men,18-30,No_studies,República Dominicana,Community,Yes
+867,Women,18-30,College,República Dominicana,ART,No
+868,Women,18-30,High-school,Filipinas,Community,No
+869,Women,31-50,High-school,Perú,Community,No
+870,Women,31-50,High-school,Perú,Community,No
+871,Women,31-50,High-school,Perú,Community,No
+872,Women,31-50,Elementary_school,India,ART,No
+873,Women,31-50,Elementary_school,India,ART,No
+874,Women,31-50,Unknown,Marruecos,Community_familiar,No
+875,Women,31-50,Pre-college,Colombia,ART,No
+876,Women,31-50,Pre-college,Colombia,ART,No
+877,Women,18-30,Pre-college,Honduras,Refugee,No
+878,Men,18-30,High-school,Gambia,Community_familiar,No
+879,Women,18-30,Pre-college,Portugal,Community,No
+880,Women,18-30,Pre-college,Portugal,Community,No
+881,Women,18-30,Pre-college,Portugal,Community,No
+882,Men,18-30,High-school,Gambia,Community_familiar,Yes
+883,Women,31-50,Pre-college,Paraguay,Community_familiar,No
+884,Women,31-50,Pre-college,Paraguay,Community_familiar,No
+885,Women,51-65,College,Venezuela,Refugee,No
+886,Men,18-30,College,El Salvador,Refugee,No
+887,Women,31-50,Vocational_training,Colombia,Community_familiar,No
+888,Women,31-50,Vocational_training,Perú,Community_familiar,No
+889,Women,31-50,Pre-college,Colombia,ART,No
+890,Women,31-50,Pre-college,Colombia,ART,No
+891,Women,31-50,Elementary_school,Nicaragua,ART,No
+892,Women,31-50,High-school,Guinea Bissau,ART,No
+893,Women,31-50,Elementary_school,Ecuador,Community,No
+894,Women,51-65,High-school,Ecuador,Community,No
+895,Women,31-50,Pre-college,El Salvador,ART,No
+896,Women,31-50,High-school,Guinea Bissau,ART,No
+897,Women,31-50,Vocational_training,Perú,Community_familiar,No
+898,Men,18-30,Pre-college,Honduras,Refugee,No
+899,Women,31-50,Pre-college,Perú,Community,No
+900,Men,51-65,High-school,Perú,Community,No
+901,Women,18-30,Elementary_school,Nigeria,ART,No
+902,Women,18-30,Elementary_school,Nigeria,ART,Yes
+903,Women,31-50,Elementary_school,Ecuador,Community,No
+904,Men,51-65,Elementary_school,España,Community,No
+905,Women,31-50,Elementary_school,Nicaragua,ART,No
+906,Women,31-50,College,Colombia,Refugee,No
+907,Women,31-50,College,Colombia,Refugee,No
+908,Women,31-50,College,Colombia,Refugee,No
+909,Women,31-50,College,Colombia,Refugee,No
+910,Women,31-50,College,Colombia,Refugee,No
+911,Women,18-30,High-school,Cuba,Refugee,No
+912,Women,18-30,High-school,Cuba,Refugee,No
+913,Women,18-30,Vocational_training,Ecuador,Community,No
+914,Women,18-30,Vocational_training,Ecuador,Community,No
+915,Women,18-30,Vocational_training,Ecuador,Community,No
+916,Women,18-30,Vocational_training,Ecuador,Community,No
+917,Women,18-30,Vocational_training,Ecuador,Community,No
+918,Women,31-50,College,Bolivia,Student,No
+919,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+920,Men,18-30,Elementary_school,Bolivia,Irregular,No
+921,Men,31-50,Pre-college,Cuba,Refugee,No
+922,Women,18-30,High-school,Marruecos,Community,No
+923,Men,18-30,Elementary_school,Bolivia,Irregular,No
+924,Women,18-30,High-school,Perú,Refugee,No
+925,Women,18-30,High-school,Perú,Refugee,No
+926,Men,18-30,High-school,España,Community,No
+927,Women,18-30,High-school,Marruecos,Community,No
+928,Women,18-30,College,República Democrática del Congo,Refugee,No
+929,Men,18-30,College,Venezuela,Community,No
+930,Women,18-30,College,Venezuela,Community,No
+931,Women,18-30,Pre-college,Argentina,Refugee,No
+932,Women,18-30,Pre-college,Argentina,Refugee,No
+933,Women,18-30,Pre-college,Argentina,Refugee,No
+934,Women,18-30,College,Nicaragua,Refugee,Yes
+935,Women,18-30,High-school,Perú,Refugee,No
+936,Women,18-30,Pre-college,Venezuela,Refugee,Yes
+937,Women,18-30,Pre-college,Venezuela,Refugee,Yes
+945,Women,18-30,Pre-college,Venezuela,Refugee,Yes
+947,Men,18-30,High-school,España,Community,Yes
+948,Women,18-30,High-school,Perú,Refugee,No
+949,Women,18-30,Pre-college,Cuba,Irregular,No
+950,Women,18-30,High-school,Perú,Refugee,No
+951,Women,18-30,Pre-college,Venezuela,Refugee,No
+952,Men,18-30,Elementary_school,Bolivia,Irregular,No
+953,Men,18-30,Pre-college,Perú,Community_familiar,No
+954,Men,18-30,Pre-college,Perú,Community_familiar,No
+955,Women,18-30,Pre-college,Marruecos,Irregular,No
+956,Men,18-30,Pre-college,Guinea,ART,No
+957,Men,18-30,Elementary_school,Argentina,Community,No
+958,Men,18-30,Pre-college,Perú,Community_familiar,No
+959,Women,18-30,Pre-college,Argentina,Refugee,No
+960,Women,18-30,College,Nicaragua,Refugee,No
+961,Women,18-30,High-school,Nicaragua,Irregular,No
+962,Men,18-30,Pre-college,Perú,Community_familiar,No
+963,Men,18-30,High-school,Paraguay,Community,No
+964,Men,18-30,Elementary_school,Bolivia,Irregular,No
+965,Men,18-30,Pre-college,Perú,Community_familiar,No
+966,Men,18-30,High-school,Paraguay,Community,No
+967,Women,18-30,Pre-college,Honduras,Irregular,No
+968,Women,18-30,Pre-college,Honduras,Irregular,No
+969,Men,18-30,College,Bolivia,Community_familiar,No
+970,Men,18-30,College,Bolivia,Community_familiar,No
+971,Men,18-30,High-school,España,Community,No
+972,Men,18-30,College,Bolivia,Community_familiar,No
+973,Men,18-30,College,Venezuela,Community,Yes
+974,Women,18-30,Pre-college,Honduras,Irregular,No
+975,Men,18-30,College,Bolivia,Community_familiar,No
+976,Women,18-30,High-school,Perú,Refugee,No
+977,Women,18-30,College,Venezuela,Refugee,No
+978,Women,18-30,College,Venezuela,Refugee,No
+979,Men,18-30,Pre-college,Guinea,Irregular,No
+980,Men,18-30,Pre-college,Guinea,Irregular,No
+981,Men,18-30,Elementary_school,Argentina,Community,No
+982,Women,31-50,College,Venezuela,Community_familiar,No
+983,Women,31-50,Pre-college,Colombia,ART,No
+984,Men,18-30,College,El Salvador,Refugee,No
+985,Women,31-50,Pre-college,Paraguay,Community_familiar,No
+986,Women,31-50,Pre-college,Paraguay,Community_familiar,No
+987,Women,31-50,Pre-college,Colombia,ART,No
+988,Women,31-50,Elementary_school,Nigeria,ART,No
+989,Women,31-50,Elementary_school,Nigeria,ART,No
+990,Women,31-50,Elementary_school,Nigeria,ART,No
+991,Women,31-50,Elementary_school,Nigeria,ART,No
+992,Men,18-30,College,El Salvador,Refugee,No
+993,Women,18-30,Pre-college,El Salvador,Refugee,No
+994,Women,31-50,High-school,Perú,Community,No
+995,Women,31-50,High-school,Bolivia,Community,No
+996,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+997,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+998,Women,31-50,Pre-college,Marruecos,Irregular,No
+999,Women,31-50,Pre-college,Marruecos,Irregular,No
+1000,Women,31-50,Pre-college,Paraguay,Community_familiar,No
+1001,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1002,Women,18-30,High-school,Ecuador,Community,No
+1003,Women,18-30,High-school,Ecuador,Community,No
+1004,Women,18-30,High-school,Ecuador,Community,No
+1005,Women,18-30,High-school,Ecuador,Community,No
+1006,Women,18-30,High-school,Ecuador,Community,No
+1007,Women,31-50,Pre-college,Bolivia,Community,No
+1008,Women,31-50,Pre-college,Bolivia,Community,No
+1009,Women,31-50,Pre-college,Bolivia,Community,No
+1010,Women,31-50,Pre-college,Bolivia,Community,No
+1011,Women,31-50,College,Venezuela,ART,No
+1012,Women,31-50,College,Venezuela,ART,No
+1013,Women,31-50,College,Venezuela,ART,No
+1014,Men,18-30,College,Ucrania,Refugee,No
+1015,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+1016,Women,31-50,College,Venezuela,Community_familiar,No
+1017,Men,18-30,College,Ucrania,Refugee,No
+1065,Men,18-30,Elementary_school,Guinea,Refugee,Yes
+1066,Women,18-30,Vocational_training,Ecuador,Community,No
+1067,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1068,Men,18-30,Pre-college,El Salvador,Refugee,No
+1069,Men,31-50,College,Venezuela,Refugee,No
+1070,Women,31-50,Elementary_school,España,Community,No
+1071,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1072,Women,31-50,Pre-college,Colombia,ART,No
+1073,Women,31-50,Pre-college,Rumania,Community,No
+1074,Women,31-50,High-school,Guinea Bissau,ART,No
+1075,Women,18-30,Pre-college,Ecuador,Irregular,No
+1076,Men,18-30,Pre-college,Honduras,Refugee,No
+1077,Men,51-65,Elementary_school,España,Community,No
+1078,Women,31-50,College,Colombia,Refugee,No
+1079,Women,18-30,Vocational_training,Ecuador,Community,No
+1080,Women,31-50,Pre-college,Rumania,Community,No
+1081,Women,51-65,High-school,Ecuador,Community,No
+1082,Women,31-50,Pre-college,Perú,Community,No
+1083,Women,31-50,High-school,Paraguay,ART,No
+1084,Women,31-50,High-school,Paraguay,ART,No
+1085,Women,31-50,High-school,Paraguay,ART,No
+1086,Women,31-50,College,Bolivia,Community_familiar,No
+1087,Women,31-50,College,Colombia,Refugee,No
+1088,Women,31-50,High-school,Paraguay,ART,No
+1089,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1090,Men,31-50,College,Venezuela,Refugee,No
+1091,Women,31-50,College,Venezuela,Refugee,No
+1092,Women,31-50,College,Venezuela,Refugee,No
+1093,Women,31-50,College,Venezuela,Refugee,No
+1094,Women,31-50,College,Colombia,Refugee,Yes
+1095,Women,31-50,High-school,Paraguay,ART,No
+1096,Women,31-50,College,Venezuela,Refugee,No
+1097,Women,31-50,College,Venezuela,Refugee,No
+1098,Women,18-30,Vocational_training,Ecuador,Community,No
+1099,Women,31-50,Elementary_school,Nigeria,ART,No
+1100,Women,31-50,Elementary_school,Nigeria,ART,No
+1101,Women,31-50,Elementary_school,Nigeria,ART,No
+1102,Women,31-50,College,Bolivia,Community_familiar,No
+1103,Women,31-50,College,Bolivia,Community_familiar,Yes
+1104,Men,18-30,Pre-college,Honduras,Refugee,No
+1105,Men,18-30,Pre-college,Honduras,Refugee,Yes
+1106,Women,31-50,Elementary_school,Nigeria,ART,No
+1107,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+1108,Men,18-30,Pre-college,Ecuador,Community,No
+1109,Women,31-50,College,Venezuela,ART,No
+1110,Women,31-50,College,Venezuela,ART,No
+1111,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1112,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+1113,Women,31-50,College,Venezuela,ART,No
+1114,Women,31-50,Pre-college,Paraguay,Community_familiar,No
+1115,Women,31-50,College,Venezuela,ART,No
+1116,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+1117,Women,31-50,College,Venezuela,Community_familiar,No
+1118,Women,31-50,High-school,Perú,Community,No
+1119,Women,31-50,High-school,Perú,Community,No
+1120,Women,18-30,High-school,Argentina,Community,No
+1121,Women,18-30,High-school,Argentina,Community,No
+1122,Women,18-30,High-school,Argentina,Community,No
+1123,Women,18-30,High-school,Argentina,Community,No
+1124,Women,18-30,High-school,Argentina,Community,No
+1125,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+1126,Women,18-30,Pre-college,Venezuela,Refugee,No
+1127,Women,18-30,Pre-college,Venezuela,Refugee,No
+1128,Women,18-30,Pre-college,Venezuela,Refugee,No
+1129,Women,18-30,Pre-college,Venezuela,Refugee,No
+1130,Women,18-30,Pre-college,Venezuela,Refugee,No
+1131,Women,18-30,Pre-college,Venezuela,Refugee,No
+1132,Women,18-30,Pre-college,Venezuela,Refugee,Yes
+1133,Women,18-30,High-school,Ecuador,Community,No
+1134,Women,18-30,High-school,Ecuador,Community,Yes
+1135,Men,18-30,College,Ucrania,Refugee,Yes
+1136,Women,31-50,College,Venezuela,Community_familiar,No
+1137,Women,18-30,Pre-college,Portugal,Community,No
+1138,Women,18-30,Pre-college,Portugal,Community,No
+1139,Women,18-30,High-school,Ecuador,Community,No
+1140,Men,18-30,High-school,Malí,Refugee,No
+1141,Men,18-30,High-school,Malí,Refugee,No
+1142,Men,18-30,High-school,Malí,Refugee,No
+1143,Men,18-30,High-school,Malí,Refugee,No
+1144,Women,31-50,High-school,Paraguay,ART,No
+1145,Men,51-65,Pre-college,Ecuador,Community,No
+1146,Women,31-50,Pre-college,El Salvador,ART,No
+1147,Women,31-50,Elementary_school,España,Community,No
+1148,Women,31-50,Elementary_school,España,Community,No
+1149,Women,31-50,College,Venezuela,Refugee,No
+1150,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1151,Women,31-50,Elementary_school,Nigeria,ART,No
+1152,Women,18-30,Vocational_training,Colombia,Refugee,No
+1153,Women,18-30,Vocational_training,Colombia,Refugee,No
+1154,Women,18-30,Vocational_training,Colombia,Refugee,No
+1155,Women,18-30,Vocational_training,Colombia,Refugee,No
+1156,Women,18-30,Vocational_training,Colombia,Refugee,No
+1157,Women,31-50,Elementary_school,España,Community,No
+1158,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1159,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1160,Women,18-30,Elementary_school,Nigeria,ART,Yes
+1161,Women,31-50,Pre-college,El Salvador,ART,No
+1162,Women,31-50,Pre-college,El Salvador,ART,No
+1163,Women,31-50,High-school,Paraguay,ART,No
+1164,Women,18-30,College,Venezuela,Refugee,No
+1165,Women,31-50,High-school,Guinea Bissau,ART,No
+1166,Women,18-30,Vocational_training,Colombia,Refugee,No
+1167,Women,31-50,Pre-college,Colombia,Community_familiar,No
+1168,Women,31-50,College,Venezuela,Refugee,No
+1169,Women,31-50,College,Venezuela,Refugee,No
+1170,Women,31-50,College,Venezuela,Refugee,Yes
+1171,Women,18-30,High-school,Ecuador,ART,No
+1172,Women,18-30,High-school,Ecuador,ART,No
+1173,Women,18-30,Pre-college,Perú,ART,No
+1174,Women,18-30,Pre-college,El Salvador,Refugee,No
+1175,Women,18-30,Pre-college,El Salvador,Refugee,No
+1176,Men,18-30,Elementary_school,Argelia,Irregular,No
+1177,Men,18-30,High-school,Perú,Community,No
+1178,Women,18-30,Vocational_training,Perú,Community_familiar,No
+1179,Men,18-30,High-school,España,Community,No
+1180,Women,31-50,High-school,Nigeria,Community_familiar,No
+1181,Women,31-50,High-school,Nigeria,Community_familiar,No
+1182,Women,31-50,High-school,Nigeria,Community_familiar,No
+1183,Women,31-50,High-school,Nigeria,Community_familiar,No
+1184,Women,31-50,High-school,Nigeria,Community_familiar,No
+1206,Women,18-30,College,Cuba,Student,Yes
+1221,Women,18-30,Pre-college,Venezuela,ART,Yes
+1223,Women,18-30,Vocational_training,El Salvador,Community,Yes
+1234,Women,18-30,Pre-college,Venezuela,Community,No
+1235,Women,18-30,High-school,Argentina,Community,No
+1236,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+1237,Women,51-65,Pre-college,Ecuador,Community,No
+1238,Women,31-50,Pre-college,Paraguay,Community_familiar,No
+1239,Women,18-30,Pre-college,Portugal,Community,No
+1240,Women,18-30,Pre-college,Venezuela,Community,No
+1241,Women,18-30,Pre-college,El Salvador,Refugee,No
+1242,Women,31-50,No_studies,Sierra Leona,Community_familiar,No
+1243,Women,31-50,College,Ecuador,Community,No
+1244,Women,31-50,College,Ecuador,Community,No
+1245,Women,31-50,College,Ecuador,Community,No
+1246,Women,31-50,College,Ecuador,Community,No
+1247,Women,31-50,College,Ecuador,Community,No
+1248,Men,18-30,College,El Salvador,Refugee,No
+1249,Men,18-30,College,El Salvador,Refugee,No
+1250,Women,31-50,College,Venezuela,ART,No
+1251,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1252,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1253,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1254,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1255,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1256,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1257,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1258,Women,31-50,College,Brasil,ART,No
+1259,Women,31-50,College,Brasil,ART,No
+1260,Women,31-50,College,Brasil,ART,No
+1261,Women,31-50,College,Brasil,ART,No
+1262,Women,31-50,College,Brasil,ART,No
+1263,Women,31-50,Pre-college,Bolivia,Community,No
+1264,Women,31-50,Pre-college,Bolivia,Community,No
+1265,Women,31-50,Pre-college,Bolivia,Community,No
+1266,Women,31-50,Pre-college,Bolivia,Community,No
+1267,Women,31-50,Pre-college,Bolivia,Community,No
+1268,Women,31-50,Pre-college,Bolivia,Community,No
+1269,Women,31-50,Elementary_school,Nigeria,ART,No
+1270,Women,31-50,Elementary_school,Nigeria,ART,No
+1271,Women,31-50,Elementary_school,Perú,ART,No
+1272,Women,31-50,Elementary_school,Perú,ART,No
+1273,Women,31-50,Elementary_school,Perú,ART,No
+1274,Women,31-50,Elementary_school,Perú,ART,No
+1275,Women,51-65,College,Venezuela,Community,No
+1276,Women,51-65,College,Venezuela,Community,No
+1277,Women,51-65,College,Venezuela,Community,No
+1278,Women,51-65,College,Venezuela,Community,No
+1279,Women,51-65,College,Venezuela,Community,No
+1280,Women,31-50,Pre-college,Bolivia,Community,No
+1281,Women,31-50,Pre-college,Bolivia,Community,No
+1303,Men,18-30,College,Venezuela,Community,Yes
+1305,Women,18-30,High-school,Perú,Refugee,Yes
+1311,Women,18-30,High-school,España,Community,Yes
+1316,Women,18-30,High-school,Perú,Refugee,Yes
+1324,Women,31-50,College,Bolivia,Community_familiar,No
+1325,Men,18-30,Pre-college,El Salvador,Refugee,No
+1326,Women,31-50,College,Colombia,Refugee,No
+1327,Women,31-50,College,Colombia,Refugee,Yes
+1328,Men,51-65,Pre-college,Perú,Community,No
+1329,Women,31-50,Elementary_school,España,Community,No
+1330,Women,31-50,Elementary_school,España,Community,No
+1331,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1332,Women,31-50,College,Venezuela,Refugee,No
+1333,Men,18-30,High-school,España,Community,No
+1334,Men,18-30,High-school,España,Community,No
+1335,Men,18-30,Pre-college,Venezuela,Community,No
+1336,Men,18-30,Pre-college,Venezuela,Community,No
+1337,Men,18-30,Pre-college,Venezuela,Community,No
+1338,Men,18-30,Pre-college,Venezuela,Community,No
+1339,Men,18-30,Pre-college,Venezuela,Community,No
+1340,Women,18-30,High-school,España,Community,No
+1341,Women,18-30,High-school,España,Community,No
+1342,Women,18-30,High-school,España,Community,No
+1343,Women,18-30,High-school,España,Community,No
+1344,Women,18-30,Pre-college,Honduras,Refugee,No
+1345,Women,18-30,Pre-college,Honduras,Refugee,No
+1346,Women,18-30,Pre-college,Honduras,Refugee,No
+1347,Women,18-30,Pre-college,Honduras,Refugee,No
+1348,Women,18-30,Pre-college,Honduras,Refugee,No
+1349,Men,18-30,High-school,Honduras,Community_familiar,No
+1350,Men,18-30,High-school,Honduras,Community_familiar,No
+1351,Men,18-30,High-school,Honduras,Community_familiar,No
+1352,Men,18-30,High-school,Honduras,Community_familiar,No
+1353,Men,18-30,Elementary_school,Colombia,Community,No
+1354,Men,18-30,Elementary_school,Colombia,Community,No
+1355,Women,18-30,High-school,Ecuador,ART,No
+1356,Men,18-30,Elementary_school,Colombia,Community,No
+1357,Men,18-30,High-school,España,Community,No
+1358,Men,18-30,High-school,España,Community,No
+1359,Men,18-30,High-school,España,Community,No
+1360,Women,18-30,High-school,Ecuador,ART,No
+1361,Women,18-30,High-school,Ecuador,ART,No
+1362,Women,18-30,High-school,Ecuador,ART,No
+1363,Women,18-30,Pre-college,Perú,ART,No
+1364,Women,18-30,Pre-college,Perú,ART,No
+1365,Women,18-30,Pre-college,Perú,ART,No
+1366,Men,18-30,Pre-college,Guatemala,Refugee,No
+1367,Men,18-30,Pre-college,Guatemala,Refugee,No
+1368,Men,18-30,Pre-college,Guatemala,Refugee,No
+1369,Men,18-30,Pre-college,Guatemala,Refugee,No
+1370,Women,18-30,Pre-college,Honduras,Refugee,No
+1371,Women,18-30,Pre-college,Honduras,Refugee,No
+1372,Women,18-30,Pre-college,Honduras,Refugee,No
+1373,Women,18-30,Pre-college,Honduras,Refugee,No
+1374,Women,18-30,Pre-college,Honduras,Refugee,No
+1375,Men,18-30,Elementary_school,España,Community,No
+1376,Men,18-30,Elementary_school,España,Community,No
+1377,Men,18-30,Elementary_school,España,Community,No
+1378,Women,31-50,College,Ecuador,Community,No
+1379,Women,31-50,College,Ecuador,Community,No
+1380,Women,31-50,Elementary_school,Nigeria,ART,No
+1381,Women,31-50,College,Brasil,ART,No
+1382,Women,31-50,Pre-college,Colombia,ART,Yes
+1383,Women,31-50,High-school,Bolivia,Community,No
+1384,Women,31-50,High-school,Bolivia,Community,No
+1385,Women,31-50,College,Ecuador,Community,No
+1386,Women,31-50,College,Brasil,ART,No
+1387,Women,31-50,College,Brasil,ART,No
+1388,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1389,Women,51-65,College,Cuba,Community_familiar,No
+1390,Women,31-50,Elementary_school,Nigeria,ART,No
+1391,Women,51-65,Elementary_school,Marruecos,Community_familiar,No
+1392,Women,51-65,Elementary_school,Marruecos,Community_familiar,No
+1393,Women,51-65,Elementary_school,Marruecos,Community_familiar,No
+1394,Women,51-65,Elementary_school,Marruecos,Community_familiar,No
+1395,Women,31-50,College,Venezuela,Refugee,No
+1396,Women,31-50,College,Venezuela,Refugee,No
+1397,Women,18-30,Pre-college,El Salvador,Refugee,No
+1398,Women,31-50,Pre-college,Bolivia,Community,No
+1399,Women,31-50,Pre-college,Bolivia,Community,No
+1400,Women,31-50,High-school,Perú,Community,No
+1401,Women,51-65,College,Cuba,Community_familiar,No
+1402,Women,31-50,Pre-college,Bolivia,Community,No
+1403,Women,31-50,High-school,Perú,Community,No
+1404,Women,31-50,High-school,Perú,ART,No
+1405,Women,31-50,High-school,Perú,ART,No
+1406,Women,31-50,High-school,Perú,ART,No
+1407,Women,31-50,College,Bolivia,Community,No
+1408,Women,31-50,College,Bolivia,Community,No
+1409,Women,31-50,College,Bolivia,Community,No
+1410,Women,31-50,College,Bolivia,Community,No
+1411,Women,31-50,College,Bolivia,Community,No
+1412,Women,31-50,College,Bolivia,Community,No
+1413,Women,31-50,College,Brasil,ART,No
+1414,Women,31-50,College,Brasil,ART,Yes
+1415,Women,31-50,College,Venezuela,Refugee,Yes
+1416,Men,18-30,High-school,Ecuador,Community,No
+1417,Men,18-30,High-school,Ecuador,Community,No
+1418,Men,18-30,High-school,Ecuador,Community,No
+1419,Men,51-65,Elementary_school,Ecuador,ART,No
+1420,Men,51-65,Elementary_school,Ecuador,ART,No
+1421,Men,51-65,Elementary_school,Ecuador,ART,No
+1422,Men,51-65,Elementary_school,Ecuador,ART,No
+1423,Men,31-50,High-school,Ecuador,Community,No
+1424,Men,31-50,High-school,Ecuador,Community,No
+1425,Men,31-50,High-school,Ecuador,Community,No
+1426,Men,31-50,High-school,Ecuador,Community,No
+1427,Men,31-50,High-school,Ecuador,Community,No
+1428,Women,31-50,High-school,Ecuador,Community,No
+1429,Women,31-50,High-school,Ecuador,Community,No
+1430,Women,31-50,High-school,Ecuador,Community,No
+1431,Women,31-50,High-school,Ecuador,Community,No
+1432,Women,31-50,High-school,Ecuador,Community,No
+1433,Women,18-30,College,Cuba,Student,No
+1434,Women,18-30,High-school,Filipinas,Community_familiar,No
+1435,Women,18-30,High-school,Filipinas,Community_familiar,No
+1436,Women,18-30,High-school,Filipinas,Community_familiar,No
+1437,Men,18-30,Pre-college,Guinea,ART,No
+1438,Women,18-30,College,Nicaragua,ART,No
+1439,Women,18-30,Pre-college,Ecuador,Community_familiar,No
+1440,Women,18-30,Elementary_school,Nigeria,ART,No
+1441,Men,18-30,Pre-college,El Salvador,Refugee,No
+1442,Women,31-50,Pre-college,Colombia,ART,No
+1443,Men,31-50,College,Venezuela,Refugee,No
+1444,Women,51-65,Pre-college,Paraguay,Community,No
+1445,Women,51-65,Pre-college,Paraguay,Community,No
+1446,Women,31-50,College,Venezuela,Refugee,No
+1447,Women,18-30,College,Venezuela,Refugee,No
+1448,Women,31-50,College,Colombia,Refugee,No
+1449,Women,18-30,Elementary_school,Nigeria,ART,No
+1450,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1451,Men,18-30,Elementary_school,Colombia,Community,No
+1452,Men,18-30,Elementary_school,Colombia,Community,No
+1453,Women,18-30,Pre-college,Honduras,Refugee,No
+1454,Women,18-30,High-school,España,Community,No
+1455,Women,18-30,Pre-college,Perú,ART,No
+1456,Women,18-30,Pre-college,Perú,ART,No
+1457,Men,18-30,Elementary_school,España,Community,No
+1458,Men,18-30,Elementary_school,España,Community,No
+1459,Men,18-30,Elementary_school,Argelia,Community_familiar,No
+1460,Men,18-30,Elementary_school,Argelia,Community_familiar,No
+1461,Men,18-30,Elementary_school,Argelia,Community_familiar,No
+1462,Men,18-30,High-school,Perú,Community,No
+1463,Men,18-30,High-school,Perú,Community,No
+1464,Men,18-30,High-school,Perú,Community,No
+1465,Men,18-30,High-school,España,Community,No
+1466,Men,18-30,High-school,España,Community,No
+1467,Women,18-30,High-school,España,Community,No
+1468,Women,18-30,High-school,España,Community,No
+1469,Men,18-30,High-school,España,Community,No
+1470,Men,18-30,High-school,España,Community,No
+1471,Men,18-30,Pre-college,Guatemala,Refugee,No
+1472,Men,18-30,Pre-college,Guatemala,Refugee,No
+1473,Men,18-30,Pre-college,Guatemala,Refugee,No
+1474,Women,18-30,Pre-college,Honduras,Refugee,No
+1475,Men,18-30,High-school,Colombia,Community_familiar,No
+1476,Men,18-30,High-school,Colombia,Community_familiar,No
+1477,Men,18-30,High-school,Honduras,Community_familiar,No
+1478,Men,18-30,High-school,Honduras,Community_familiar,No
+1479,Men,4-17,Elementary_school,España,Community,No
+1480,Women,31-50,Elementary_school,España,Community,Yes
+1481,Women,31-50,College,Venezuela,Refugee,Yes
+1482,Women,31-50,College,Venezuela,Refugee,No
+1483,Men,18-30,Elementary_school,Argelia,Community_familiar,No
+1484,Women,18-30,Pre-college,Perú,ART,No
+1485,Women,18-30,High-school,España,Community,No
+1486,Men,18-30,High-school,Honduras,Community_familiar,Yes
+1487,Women,31-50,Elementary_school,Nigeria,ART,No
+1488,Women,51-65,High-school,Marruecos,Community_familiar,No
+1489,Men,18-30,College,El Salvador,Refugee,No
+1490,Men,51-65,No_studies,Ecuador,ART,No
+1491,Women,31-50,College,Bolivia,Community,No
+1492,Women,31-50,College,Bolivia,Community,No
+1493,Women,31-50,High-school,Bolivia,Community,No
+1494,Women,31-50,High-school,Perú,Community,No
+1495,Women,31-50,College,Ecuador,Community,No
+1496,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1497,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1498,Women,31-50,College,Bolivia,Community,No
+1499,Men,31-50,High-school,Ecuador,Community,No
+1500,Men,31-50,High-school,Ecuador,Community,No
+1501,Men,51-65,No_studies,Ecuador,ART,No
+1502,Men,18-30,High-school,Ecuador,Community,No
+1503,Men,18-30,High-school,Ecuador,Community,No
+1504,Men,51-65,No_studies,Ecuador,ART,No
+1505,Men,18-30,High-school,Ecuador,Community,No
+1506,Men,18-30,High-school,Ecuador,Community,No
+1507,Women,31-50,High-school,Bolivia,Community,No
+1508,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1509,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1510,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1511,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1512,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1513,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1514,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1515,Women,31-50,Elementary_school,Senegal,Community_familiar,No
+1516,Women,31-50,Elementary_school,Senegal,Community_familiar,No
+1517,Women,31-50,Elementary_school,Senegal,Community_familiar,No
+1518,Women,31-50,Elementary_school,Senegal,Community_familiar,No
+1519,Women,31-50,Elementary_school,Senegal,Community_familiar,No
+1520,Women,31-50,Elementary_school,Senegal,Community_familiar,No
+1521,Women,31-50,Elementary_school,Senegal,Community_familiar,No
+1522,Men,18-30,Elementary_school,Gambia,Community_familiar,No
+1523,Women,18-30,High-school,Ecuador,Community,No
+1524,Women,18-30,High-school,Ecuador,Community,No
+1525,Women,18-30,High-school,Ecuador,Community,No
+1526,Women,18-30,High-school,Ecuador,Community,No
+1527,Women,18-30,High-school,Ecuador,Community,No
+1528,Women,4-17,High-school,España,Community,No
+1529,Women,4-17,High-school,España,Community,No
+1530,Women,4-17,High-school,España,Community,No
+1531,Women,4-17,High-school,España,Community,No
+1532,Women,4-17,High-school,España,Community,No
+1533,Women,51-65,College,Cuba,Community_familiar,No
+1534,Women,51-65,College,Cuba,Community_familiar,No
+1535,Women,51-65,College,Cuba,Community_familiar,No
+1536,Women,51-65,College,Cuba,Community_familiar,No
+1537,Women,51-65,College,Cuba,Community_familiar,No
+1538,Women,51-65,College,Cuba,Community_familiar,No
+1539,Women,51-65,College,Cuba,Community_familiar,No
+1540,Women,18-30,College,Guatemala,Irregular,No
+1541,Women,18-30,College,Guatemala,Irregular,No
+1542,Women,18-30,College,Guatemala,Irregular,No
+1543,Women,18-30,College,Guatemala,Irregular,No
+1544,Women,18-30,College,Guatemala,Irregular,No
+1545,Women,18-30,College,Guatemala,Irregular,No
+1546,Women,18-30,College,Guatemala,Irregular,No
+1547,Women,51-65,High-school,Marruecos,Community_familiar,No
+1548,Women,51-65,High-school,Marruecos,Community_familiar,No
+1549,Women,51-65,College,Venezuela,Community,No
+1550,Women,51-65,College,Venezuela,Community,No
+1551,Women,31-50,High-school,Ecuador,Community,No
+1552,Women,31-50,Pre-college,Ucrania,ART,No
+1553,Women,31-50,Pre-college,Ucrania,ART,No
+1554,Women,31-50,Elementary_school,Costa de Marfil,ART,No
+1555,Women,31-50,Elementary_school,Costa de Marfil,ART,No
+1556,Women,18-30,High-school,España,Community,No
+1557,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1558,Women,31-50,Elementary_school,Costa de Marfil,ART,No
+1559,Women,31-50,Elementary_school,Costa de Marfil,ART,No
+1560,Men,18-30,High-school,España,Community,No
+1561,Women,51-65,High-school,Ecuador,Community,No
+1562,Women,51-65,High-school,Ecuador,Community,No
+1563,Women,31-50,College,Colombia,Refugee,No
+1564,Women,18-30,Elementary_school,Nigeria,ART,No
+1565,Women,51-65,Elementary_school,República Dominicana,Community,No
+1566,Women,18-30,High-school,España,Community,No
+1567,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1568,Women,31-50,Pre-college,El Salvador,ART,No
+1569,Women,31-50,Pre-college,El Salvador,ART,No
+1570,Women,31-50,College,Bolivia,Community_familiar,No
+1571,Men,18-30,Elementary_school,España,Community,No
+1572,Men,18-30,Pre-college,Venezuela,Community,No
+1573,Men,18-30,Pre-college,Venezuela,Community,Yes
+1574,Women,18-30,College,Venezuela,Refugee,No
+1575,Women,18-30,College,Venezuela,Refugee,Yes
+1576,Women,31-50,Elementary_school,Costa de Marfil,ART,No
+1577,Women,31-50,Elementary_school,Costa de Marfil,ART,No
+1578,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1579,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1580,Women,18-30,Pre-college,Perú,ART,No
+1581,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1582,Men,18-30,High-school,Senegal,Community_familiar,No
+1583,Women,18-30,Elementary_school,Nigeria,ART,No
+1584,Men,18-30,Pre-college,Guinea,ART,No
+1585,Women,31-50,College,Bolivia,Community_familiar,No
+1586,Women,18-30,High-school,España,Community,Yes
+1587,Women,51-65,College,Venezuela,Community,No
+1588,Women,51-65,College,Venezuela,Community,No
+1589,Women,51-65,College,Venezuela,Community,No
+1590,Women,51-65,College,Venezuela,Community,No
+1591,Women,31-50,Pre-college,Perú,Refugee,No
+1592,Women,31-50,Pre-college,Perú,Refugee,No
+1593,Men,18-30,Elementary_school,España,Community,No
+1594,Men,18-30,Elementary_school,España,Community,Yes
+1595,Women,18-30,Pre-college,Perú,ART,No
+1596,Women,31-50,College,Venezuela,Refugee,No
+1597,Women,31-50,Pre-college,Perú,Refugee,No
+1598,Women,31-50,Pre-college,Perú,Refugee,No
+1599,Women,31-50,Pre-college,El Salvador,ART,No
+1600,Women,18-30,Elementary_school,Nigeria,ART,No
+1601,Women,18-30,Vocational_training,Colombia,Refugee,No
+1602,Women,18-30,Pre-college,Honduras,Refugee,No
+1603,Men,31-50,Pre-college,El Salvador,Refugee,No
+1604,Women,31-50,College,Bolivia,Community_familiar,No
+1605,Women,31-50,Pre-college,Ucrania,ART,No
+1606,Women,31-50,Pre-college,Ucrania,ART,No
+1607,Men,18-30,Pre-college,El Salvador,Refugee,No
+1608,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1609,Women,31-50,Pre-college,Colombia,Community_familiar,No
+1610,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1611,Women,18-30,Vocational_training,El Salvador,Community,No
+1612,Men,18-30,College,Bolivia,Community_familiar,No
+1613,Women,51-65,Elementary_school,República Dominicana,Community,No
+1614,Men,18-30,High-school,España,Community,Yes
+1615,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1616,Women,31-50,High-school,Ecuador,Community,No
+1617,Women,51-65,High-school,Marruecos,Community_familiar,No
+1618,Women,51-65,High-school,Marruecos,Community_familiar,Yes
+1619,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1620,Men,31-50,High-school,Ecuador,Community,No
+1621,Men,31-50,High-school,Ecuador,Community,Yes
+1622,Women,31-50,Pre-college,Colombia,ART,No
+1623,Women,18-30,High-school,Ecuador,Community,No
+1624,Women,18-30,High-school,Ecuador,Community,No
+1625,Women,31-50,Pre-college,Bolivia,Community,No
+1626,Women,31-50,Pre-college,Bolivia,Community,Yes
+1627,Women,31-50,College,Bolivia,Community,No
+1628,Men,18-30,College,El Salvador,Refugee,Yes
+1629,Women,31-50,College,Ecuador,Community,No
+1630,Women,31-50,High-school,Bolivia,Community,Yes
+1631,Women,18-30,Elementary_school,Bangladesh,ART,No
+1632,Women,18-30,Elementary_school,Bangladesh,ART,No
+1633,Women,18-30,Elementary_school,Bangladesh,ART,No
+1634,Women,31-50,College,Ecuador,Community,Yes
+1635,Women,31-50,College,Ecuador,Community,Yes
+1636,Men,18-30,College,Bolivia,Community,No
+1637,Men,18-30,College,Bolivia,Community,No
+1638,Men,18-30,College,Bolivia,Community,No
+1639,Men,31-50,College,Bolivia,Community_familiar,No
+1640,Men,31-50,College,Bolivia,Community_familiar,No
+1641,Men,31-50,College,Bolivia,Community_familiar,No
+1642,Women,18-30,Elementary_school,Bangladesh,ART,No
+1643,Men,31-50,High-school,Ecuador,Community,Yes
+1644,Men,18-30,College,Bolivia,Community,No
+1645,Women,31-50,Pre-college,Bolivia,Community,No
+1646,Women,51-65,College,Venezuela,Community,No
+1647,Women,51-65,College,Venezuela,Community,No
+1648,Women,51-65,College,Venezuela,Community,No
+1649,Women,18-30,Elementary_school,Bangladesh,ART,No
+1650,Women,31-50,Pre-college,Bolivia,Community,Yes
+1651,Women,51-65,College,Venezuela,Community,No
+1652,Women,31-50,High-school,Ecuador,Community,No
+1653,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1654,Men,18-30,High-school,Ecuador,Community,No
+1655,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1656,Men,18-30,Vocational_training,Perú,Community_familiar,No
+1657,Men,18-30,Vocational_training,Perú,Community_familiar,No
+1658,Men,18-30,Vocational_training,Perú,Community_familiar,No
+1659,Men,18-30,Vocational_training,Perú,Community_familiar,No
+1660,Men,31-50,College,Perú,ART,No
+1661,Men,31-50,College,Perú,ART,No
+1662,Men,31-50,College,Perú,ART,No
+1663,Men,31-50,College,Perú,ART,No
+1664,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1665,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1666,Women,31-50,Vocational_training,Perú,Community_familiar,No
+1667,Women,31-50,College,Bolivia,Community_familiar,No
+1668,Men,18-30,Pre-college,El Salvador,Refugee,No
+1669,Women,31-50,College,Venezuela,Refugee,No
+1670,Men,31-50,College,Venezuela,Refugee,No
+1671,Men,31-50,College,Venezuela,Refugee,No
+1672,Men,31-50,College,Venezuela,Refugee,No
+1673,Women,51-65,Elementary_school,Marruecos,ART,No
+1674,Women,51-65,Elementary_school,Marruecos,ART,No
+1675,Women,51-65,Elementary_school,Marruecos,ART,No
+1676,Women,51-65,Pre-college,Venezuela,Community,No
+1677,Women,51-65,Pre-college,Venezuela,Community,No
+1678,Women,51-65,Pre-college,Venezuela,Community,No
+1679,Men,31-50,College,Venezuela,Refugee,Yes
+1680,Women,31-50,Pre-college,Colombia,Community_familiar,No
+1681,Women,31-50,Pre-college,Bolivia,Community,No
+1682,Women,51-65,College,Perú,Community_familiar,No
+1683,Women,51-65,College,Perú,Community_familiar,No
+1684,Women,51-65,College,Perú,Community_familiar,No
+1685,Women,51-65,Pre-college,Paraguay,Community,No
+1686,Women,31-50,Pre-college,Perú,Community,No
+1687,Men,18-30,High-school,Colombia,Irregular,No
+1688,Men,18-30,High-school,Colombia,Irregular,No
+1689,Men,18-30,High-school,Colombia,Irregular,No
+1690,Men,18-30,Pre-college,Malí,Irregular,No
+1691,Men,18-30,Pre-college,Malí,Irregular,No
+1692,Men,18-30,Pre-college,Malí,Irregular,No
+1693,Men,18-30,Vocational_training,Colombia,Irregular,No
+1694,Men,18-30,Vocational_training,Colombia,Irregular,No
+1695,Men,18-30,Vocational_training,Colombia,Irregular,No
+1696,Men,18-30,Vocational_training,Colombia,Irregular,No
+1697,Men,18-30,Vocational_training,Perú,Community_familiar,No
+1698,Men,18-30,Vocational_training,Perú,Community_familiar,No
+1699,Men,18-30,Vocational_training,Perú,Community_familiar,No
+1700,Women,31-50,College,Bolivia,Community_familiar,No
+1701,Women,31-50,College,Venezuela,Community,No
+1702,Women,31-50,College,Venezuela,Community,No
+1703,Women,31-50,College,Venezuela,Community,No
+1704,Women,31-50,College,Colombia,Refugee,No
+1705,Women,18-30,Vocational_training,El Salvador,Community,Yes
+1706,Women,18-30,Pre-college,Ecuador,Community,No
+1707,Women,31-50,High-school,Nigeria,Community_familiar,No
+1708,Women,31-50,High-school,Nigeria,Community_familiar,No
+1709,Women,31-50,High-school,Nigeria,Community_familiar,Yes
+1710,Men,18-30,Pre-college,Venezuela,Community,No
+1711,Women,18-30,High-school,España,Community,No
+1712,Women,18-30,Pre-college,Honduras,Refugee,No
+1713,Women,18-30,Pre-college,Honduras,Refugee,No
+1714,Women,18-30,Pre-college,Honduras,Refugee,No
+1715,Men,18-30,High-school,España,Community,No
+1716,Men,18-30,High-school,España,Community,Yes
+1717,Men,18-30,Pre-college,Bolivia,Community_familiar,No
+1718,Men,18-30,Elementary_school,Honduras,Community_familiar,No
+1719,Women,51-65,College,Venezuela,Community,Yes
+1720,Women,31-50,Pre-college,Ucrania,ART,No
+1721,Women,31-50,Pre-college,Ucrania,ART,No
+1722,Men,18-30,High-school,Ecuador,Community,Yes
+1723,Men,18-30,High-school,Ecuador,Community,Yes
+1724,Men,18-30,Pre-college,Bolivia,Community_familiar,Yes
+1725,Women,31-50,High-school,Ecuador,Community,Yes
+1726,Men,18-30,Vocational_training,Bolivia,Community,No
+1727,Men,18-30,Vocational_training,Bolivia,Community,No
+1728,Men,18-30,Vocational_training,Bolivia,Community,No
+1729,Men,31-50,College,Venezuela,Refugee,No
+1730,Men,31-50,College,Venezuela,Refugee,No
+1731,Men,31-50,College,Colombia,Refugee,No
+1732,Men,31-50,College,Colombia,Refugee,No
+1733,Men,31-50,College,Colombia,Refugee,No
+1734,Women,18-30,College,Guatemala,ART,No
+1735,Women,18-30,College,Guatemala,ART,No
+1736,Women,18-30,College,Guatemala,ART,No
+1737,Women,18-30,College,Guatemala,ART,No
+1738,Women,51-65,High-school,Filipinas,Community,No
+1739,Women,31-50,Pre-college,Perú,Community_familiar,No
+1740,Women,31-50,Pre-college,Perú,Community_familiar,No
+1741,Women,31-50,Pre-college,Perú,Community_familiar,No
+1742,Women,31-50,Pre-college,Perú,Community_familiar,No
+1743,Women,31-50,Pre-college,Perú,Community_familiar,No
+1744,Women,18-30,Elementary_school,Colombia,Refugee,No
+1745,Women,18-30,Elementary_school,Colombia,Refugee,No
+1746,Women,18-30,Elementary_school,Colombia,Refugee,No
+1747,Women,18-30,Elementary_school,Colombia,Refugee,No
+1748,Women,51-65,Pre-college,Venezuela,Community,No
+1749,Women,51-65,Pre-college,Venezuela,Community,No
+1750,Men,31-50,Pre-college,Ecuador,Community,No
+1751,Men,31-50,Pre-college,Ecuador,Community,No
+1752,Men,31-50,Pre-college,Ecuador,Community,No
+1753,Men,31-50,Pre-college,Ecuador,Community,No
+1754,Men,31-50,Pre-college,Ecuador,Community,No
+1755,Men,31-50,Pre-college,Ecuador,Community,No
+1756,Women,4-17,High-school,España,Community,No
+1757,Women,4-17,High-school,España,Community,No
+1758,Women,4-17,High-school,España,Community,No
+1759,Women,4-17,High-school,España,Community,No
+1760,Women,18-30,High-school,Venezuela,ART,No
+1761,Women,18-30,High-school,Venezuela,ART,No
+1762,Women,18-30,High-school,Venezuela,ART,No
+1763,Women,4-17,Elementary_school,España,Community,No
+1764,Women,4-17,Elementary_school,España,Community,No
+1765,Women,4-17,Elementary_school,España,Community,No
+1766,Women,51-65,Elementary_school,Cabo Verde,ART,No
+1767,Women,51-65,Elementary_school,Cabo Verde,ART,No
+1768,Women,51-65,Elementary_school,Cabo Verde,ART,No
+1769,Women,51-65,Elementary_school,Cabo Verde,ART,No
+1770,Women,18-30,Pre-college,Ecuador,Community,No
+1771,Women,18-30,Pre-college,Ecuador,Community,No
+1772,Women,18-30,Pre-college,Ecuador,Community,No
+1773,Women,18-30,Pre-college,Ecuador,Community,No
+1774,Women,18-30,Pre-college,Nicaragua,Refugee,No
+1775,Women,18-30,Pre-college,Nicaragua,Refugee,No
+1776,Women,18-30,Pre-college,Nicaragua,Refugee,No
+1777,Women,18-30,Pre-college,República Dominicana,ART,No
+1778,Women,18-30,Pre-college,República Dominicana,ART,No
+1779,Women,18-30,Pre-college,República Dominicana,ART,No
+1780,Men,18-30,Pre-college,Nicaragua,Irregular,No
+1781,Men,18-30,Pre-college,Nicaragua,Irregular,No
+1782,Men,18-30,Pre-college,Nicaragua,Irregular,No
+1783,Women,18-30,College,Venezuela,Community,No
+1784,Women,18-30,College,Venezuela,Community,No
+1785,Women,18-30,College,Venezuela,Community,No
+1786,Women,18-30,College,Venezuela,Community,No
+1787,Men,18-30,Vocational_training,España,Community,No
+1788,Men,18-30,Vocational_training,España,Community,No
+1789,Men,18-30,Vocational_training,España,Community,No
+1790,Women,51-65,High-school,Filipinas,Community,No
+1791,Women,51-65,High-school,Filipinas,Community,No
+1792,Women,51-65,High-school,Filipinas,Community,No
+1793,Men,18-30,High-school,España,Community,No
+1794,Men,18-30,High-school,España,Community,No
+1795,Men,18-30,High-school,España,Community,No
+1796,Women,18-30,Pre-college,Perú,Community,No
+1797,Women,18-30,Pre-college,Perú,Community,No
+1798,Women,18-30,Pre-college,Perú,Community,No
+1799,Men,18-30,Pre-college,Ecuador,Community,No
+1800,Men,18-30,Pre-college,Ecuador,Community,No
+1801,Men,18-30,Pre-college,Ecuador,Community,No
+1802,Women,18-30,Elementary_school,España,Community,No
+1803,Women,18-30,Elementary_school,España,Community,No
+1804,Women,18-30,Elementary_school,España,Community,No
+1805,Women,18-30,Elementary_school,Marruecos,Community,No
+1806,Women,18-30,Elementary_school,Marruecos,Community,No
+1807,Women,18-30,Elementary_school,Marruecos,Community,No
