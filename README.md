@@ -95,7 +95,7 @@ one of the highest net-migration rates in Europe (that is difference
 between immigrants and emigrants) [@em_ine_2021] so migration data is
 plentiful and of easy access.
 
-![Total immigration numbers to Spain over the course of six 2-semester years. Of note is the gradual rise throughout the early 2010's with a steep dip at the beginning of the COVID-19 epidemic and now explosive growth, contributing to Spain's high net-migration.](ime_img.png)
+![Total immigration numbers to Spain over the course of six 2-semester years. Of note is the gradual rise throughout the early 2010's with a steep dip at the beginning of the COVID-19 epidemic and now explosive growth, contributing to Spain's high net-migration.](img/ime_img.png)
 
 # Initial Proposal
 
