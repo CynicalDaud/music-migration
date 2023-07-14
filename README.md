@@ -202,7 +202,7 @@ music theory, others are more broader terms for musical style that best
 capture what it is people like about a given song.
 
 ::: figure*
-![image](migration_music_sim.png){width="\\textwidth"}
+![image](imgs/migration_music_sim.png){width="\\textwidth"}
 :::
 
 ## Spanish Emigration Statistics
@@ -363,7 +363,7 @@ ease of analysis, the best six coefficients are picked (those with the
 highest value aside from the musical similarity attribute).
 
 ::: figure*
-![image](coefficients_with_morocco.png){width="\\textwidth"}
+![image](imgs/coefficients_with_morocco.png){width="\\textwidth"}
 :::
 
 Here we see that our regression lines seem to be more resilient to
