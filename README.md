@@ -419,5 +419,32 @@ these attributes and migration, and alternative regression types might
 render far more closer fitting lines.
 
 # References
+@usoMusic: [Music and Identity in a Postcolonial World: Radio Airplay of Lusophone Music in Public Service Broadcasting in the Portuguese- Speaking World](https://doi.org/10.1080/19376529.2019.1689243) - Costa Alves, Teresa  (2020)
 
+@epstein_2010: Migration and culture - Epstein, Gil S. (2010)
+
+@da_2019: [An overview - ten years to 2030 : Growth, people, resilience - World Bank](https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/898721564074799426/ida19-an-overview-ten-years-to-2030-growth-people-resilience) (2019)
+
+@huston_2020: [People, places, and cultures](https://oer.tamiu.edu/itemRecord.php?id=2433) - Huston, Raymon (2020)
+
+@peoples_2022: [The ledger: For streamers, does catalog size matter?](https://www.billboard.com/pro/music-streaming-spotify-catalog-size-the-ledger/) - Peoples, Glenn (2022)
+
+@groove2groove: Groove2Groove: One-Shot Music Style Transfer With Supervision From Synthetic Data - Cífka, Ondřej and Şimşekli, Umut and Richard, Gaël (2020)
+
+
+@robley_2022: [The spotify algorithm: What musicians need to know](https://diymusician.cdbaby.com/music-career/spotify-algorithm/) - Robley, Chris (2022)
+
+@em_ine_2021: Cifras de Población (CP) y Estadística de Migraciones (EM) - INE (2021)
+
+@bwandwando_2022: [Spotify Daily Top 50 Of 63 countries + Global](https://www.kaggle.com/dsv/4792320) (2022)
+
+@ine_otro: [Flujo de Inmigración Procedente del extranjero por año, País de origen y Nacionalidad (Española/Extranjera)](https://www.ine.es/jaxiT3/Tabla.htm?t=24295) - INE (2021)
+
+@wikipedia_2023: [Spanish language](https://en.wikipedia.org/wiki/Spanish_language) - Wikipedia (2023),
+
+@spain_info: [Embassy of Romania in Madrid, Spain](https://www.spain.info/en/info/embassy-of-romania/) (2023)
+
+@lamoncloa_2022: [Sánchez assures Ciucă of the close relationship between Spain and Romania and their commitment to the European framework and security on the continent](https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2022/20221123_sp-romanian-summit.aspx) - La Moncloa (2022)
+
+@pineda_2022: [From Bayamón to the Carolinas and back: Reggaeton’s journey is not over yet](https://elpais.com/america/sociedad/the-beats-of-mi-tierra/2022-09-07/from-bayamon-to-the-carolinas-and-back-reggaetons-journey-is-not-over-yet.html) - Pineda, Ricardo (2022)
 
