@@ -3,8 +3,6 @@ author: U1909327
 bibliography: bib-file.bib
 ---
 
-\[\]
-
 # Introduction
 
 Music is recognized as integral to culture, with evidence of musical
