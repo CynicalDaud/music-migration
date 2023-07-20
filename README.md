@@ -349,8 +349,7 @@ result of this procedure is an array of coefficients or weights that are
 applied to the value of each attribute before using it's value (along
 with the others) to predict the target. Coefficients that are closer to
 0 show fewer signs of correlation, while those with larger magnitudes
-indicate either positive or negative correlation (see fig
-[\[fig:04\]](#fig:04){reference-type="ref" reference="fig:04"}). For
+indicate either positive or negative correlation (see fig 4). For
 ease of analysis, the best six coefficients are picked (those with the
 highest value aside from the musical similarity attribute).
 
@@ -422,3 +421,7 @@ Furthermore other regression types could be investigated, as linear
 regressions did not perfectly capture the relationship between some of
 these attributes and migration, and alternative regression types might
 render far more closer fitting lines.
+
+# References
+
+
