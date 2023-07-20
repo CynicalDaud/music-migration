@@ -1,8 +1,6 @@
 ---
-author:
--   U1909327
-bibliography:
-- bib-file.bib
+author: U1909327
+bibliography: bib-file.bib
 ---
 
 \[\]
